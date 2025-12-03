@@ -11,7 +11,7 @@
 				<div class="step-number">1</div>
 				<h3>{$t("getStarted.step1.title")}</h3>
 				<p>{$t("getStarted.step1.description")}</p>
-				<a href="/download" class="card-btn" data-sveltekit-reload
+				<a href="/download" class="card-btn"
 					>{$t("getStarted.step1.button")}</a
 				>
 			</div>

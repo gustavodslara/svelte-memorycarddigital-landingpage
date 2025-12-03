@@ -335,10 +335,8 @@
 								<li class="benefit-item">{benefit}</li>
 							{/each}
 						</ul>
-						<a
-							href="/download"
-							class="learn-more-button"
-							data-sveltekit-reload>{$t("about.downloadNow")}</a
+						<a href="/download" class="learn-more-button"
+							>{$t("about.downloadNow")}</a
 						>
 					{/if}
 					{#if i === 1 && section.steps}
@@ -347,10 +345,8 @@
 								<li class="step-item">{step}</li>
 							{/each}
 						</ol>
-						<a
-							href="/download"
-							class="learn-more-button"
-							data-sveltekit-reload>{$t("about.downloadNow")}</a
+						<a href="/download" class="learn-more-button"
+							>{$t("about.downloadNow")}</a
 						>
 					{/if}
 				</div>

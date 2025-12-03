@@ -68,14 +68,10 @@
 					<h4>{$t("footer.product")}</h4>
 					<ul>
 						<li>
-							<a href="/about" data-sveltekit-reload
-								>{$t("footer.about")}</a
-							>
+							<a href="/about">{$t("footer.about")}</a>
 						</li>
 						<li>
-							<a href="/features" data-sveltekit-reload
-								>{$t("footer.features")}</a
-							>
+							<a href="/features">{$t("footer.features")}</a>
 						</li>
 						<li>
 							<a
@@ -116,17 +112,13 @@
 					<h4>{$t("footer.legal")}</h4>
 					<ul>
 						<li>
-							<a href="/privacy" data-sveltekit-reload
-								>{$t("footer.privacy")}</a
-							>
+							<a href="/privacy">{$t("footer.privacy")}</a>
 						</li>
 						<li>
-							<a href="/terms" data-sveltekit-reload
-								>{$t("footer.terms")}</a
-							>
+							<a href="/terms">{$t("footer.terms")}</a>
 						</li>
 						<li>
-							<a href="/license" data-sveltekit-reload>License</a>
+							<a href="/license">License</a>
 						</li>
 					</ul>
 				</div>

@@ -22,6 +22,7 @@
         const url = `http://localhost:8000${endpoint}`;
 
         try {
+            /** @type {Record<string, string>} */
             const payload = { email, password };
             if (!isLogin) payload.name = name;
 
@@ -61,7 +62,7 @@
                 isLogin = true;
                 error = "Account created! Please sign in."; // Using error for success msg temporarily or add success state
             }
-        } catch (err) {
+        } catch (/** @type {any} */ err) {
             error = err.message;
         } finally {
             loading = false;
@@ -131,9 +132,7 @@
 
             {#if isLogin}
                 <div class="forgot-password">
-                    <a href="/forgot-password" data-sveltekit-reload
-                        >Forgot Password?</a
-                    >
+                    <a href="/forgot-password">Forgot Password?</a>
                 </div>
             {/if}
 
