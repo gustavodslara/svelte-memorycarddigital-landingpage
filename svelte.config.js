@@ -14,9 +14,9 @@ const config = {
 		adapter: adapter({
 			pages: 'docs',
 			assets: 'docs',
-			fallback: '404.html',
+			fallback: 'index.html',
 			precompress: false,
-			strict: true
+			strict: false
 		}),
 		prerender: {
 			handleMissingId: 'ignore'

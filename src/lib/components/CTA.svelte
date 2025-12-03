@@ -1,141 +1,66 @@
 <script>
-	import { onMount } from 'svelte';
+	import { onMount } from "svelte";
+	import gsap from "gsap";
+	import { t } from "svelte-i18n";
 
-	const sections = [
-		{
-			title: 'Ready to Preserve',
-			highlight: 'Your Memories?',
-			subtitle: 'Join thousands of users who trust Memory Card Digital to keep their precious moments safe.',
-			buttons: ['Start Free Trial', 'Contact Sales']
-		},
-		{
-			title: 'Start Your',
-			highlight: 'Journey Today',
-			subtitle: 'Create unlimited memory cards, share with everyone, and preserve your moments forever.',
-			buttons: ['Get Started Now', 'View Pricing']
-		}
-	];
-
-	onMount(async () => {
-		const { default: gsap } = await import('gsap');
-		const { ScrollTrigger } = await import('gsap/ScrollTrigger');
-		
-		gsap.registerPlugin(ScrollTrigger);
-
-		// Pin the CTA section
-		ScrollTrigger.create({
-			trigger: '.scroll-container',
-			start: 'top top',
-			end: '+=200%',
-			pin: '.cta',
-			pinSpacing: false,
-			scrub: true
-		});
-
-		// Continuous rotation animation for decorative circles
-		gsap.to('.circle-1', {
+	onMount(() => {
+		// Animate squares
+		gsap.to(".square-1", {
 			rotation: 360,
 			duration: 20,
 			repeat: -1,
-			ease: 'none'
+			ease: "linear",
 		});
 
-		gsap.to('.circle-2', {
+		gsap.to(".square-2", {
 			rotation: -360,
 			duration: 25,
 			repeat: -1,
-			ease: 'none'
+			ease: "linear",
 		});
 
 		// Floating animation
-		gsap.to('.circle-1', {
-			y: -30,
-			x: 20,
-			duration: 4,
-			repeat: -1,
+		gsap.to(".square-wrapper", {
+			y: 20,
+			duration: 2,
 			yoyo: true,
-			ease: 'sine.inOut'
-		});
-
-		gsap.to('.circle-2', {
-			y: 40,
-			x: -30,
-			duration: 5,
 			repeat: -1,
-			yoyo: true,
-			ease: 'sine.inOut',
-			delay: 1
-		});
-
-		// Create master timeline for scroll-based animations
-		const masterTimeline = gsap.timeline({
-			scrollTrigger: {
-				trigger: '.scroll-container',
-				start: 'top top',
-				end: '+=200%',
-				scrub: 1
-			}
-		});
-
-		// Animate circles moving and scaling
-		masterTimeline
-			.to('.circle-1', { x: -300, y: -200, scale: 1.5, opacity: 0.3, duration: 1 }, 0)
-			.to('.circle-2', { x: 350, y: 250, scale: 1.3, opacity: 0.4, duration: 1 }, 0)
-			.to('.section-0', { opacity: 0, y: -50, duration: 0.5 }, 0.8)
-			.to('.section-1', { opacity: 1, y: 0, duration: 0.5 }, 1);
-
-		// Initial entrance
-		gsap.from('.section-0', {
-			opacity: 0,
-			scale: 0.8,
-			duration: 1,
-			delay: 0.3,
-			ease: 'back.out(1.7)'
-		});
-
-		gsap.from('.circle-1, .circle-2', {
-			scale: 0,
-			opacity: 0,
-			duration: 1.2,
-			delay: 0.5,
-			stagger: 0.2,
-			ease: 'back.out(1.7)'
+			ease: "sine.inOut",
+			stagger: 0.5,
 		});
 	});
 </script>
 
-<div class="scroll-container">
-	<section id="contact" class="cta">
-		<div class="cta-background">
-			<div class="circle circle-1"></div>
-			<div class="circle circle-2"></div>
+<section id="download" class="cta">
+	<div class="cta-background">
+		<div class="square-wrapper square-wrapper-1">
+			<div class="square square-1"></div>
 		</div>
+		<div class="square-wrapper square-wrapper-2">
+			<div class="square square-2"></div>
+		</div>
+	</div>
 
-		<!-- Content sections that change on scroll -->
-		<div class="content-wrapper">
-			{#each sections as section, i}
-				<div class="cta-content section-{i}" class:active={i === 0}>
-					<h2 class="cta-title">
-						{section.title}
-						<span class="highlight-text">{section.highlight}</span>
-					</h2>
-					<p class="cta-subtitle">{section.subtitle}</p>
-					<div class="cta-buttons">
-						<button class="cta-primary">{section.buttons[0]}</button>
-						<button class="cta-secondary">{section.buttons[1]}</button>
-					</div>
-				</div>
-			{/each}
+	<div class="content-wrapper">
+		<div class="cta-content">
+			<h2 class="cta-title">
+				{$t("cta.title.part1")}
+				<span class="highlight-text">{$t("cta.title.highlight")}</span>
+			</h2>
+			<p class="cta-subtitle">
+				{$t("cta.subtitle")}
+			</p>
+			<div class="cta-buttons">
+				<button class="cta-primary">{$t("cta.buttonPrimary")}</button>
+				<button class="cta-secondary"
+					>{$t("cta.buttonSecondary")}</button
+				>
+			</div>
 		</div>
-	</section>
-</div>
+	</div>
+</section>
 
 <style>
-	.scroll-container {
-		height: 300vh;
-		position: relative;
-	}
-
 	.cta {
 		position: relative;
 		height: 100vh;
@@ -144,7 +69,11 @@
 		align-items: center;
 		justify-content: center;
 		overflow: hidden;
-		background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+		background: linear-gradient(
+			135deg,
+			var(--primary-color),
+			var(--secondary-color)
+		);
 	}
 
 	.cta-background {
@@ -156,25 +85,37 @@
 		overflow: hidden;
 	}
 
-	.circle {
+	.square-wrapper {
 		position: absolute;
-		border-radius: 50%;
-		background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.05) 70%);
-		filter: blur(2px);
 	}
 
-	.circle-1 {
+	.square {
+		width: 100%;
+		height: 100%;
+		background: linear-gradient(
+			135deg,
+			rgba(255, 255, 255, 0.2) 0%,
+			rgba(255, 255, 255, 0.05) 100%
+		);
+		backdrop-filter: blur(5px);
+		border: 1px solid rgba(255, 255, 255, 0.1);
+		border-radius: 20px;
+	}
+
+	.square-wrapper-1 {
+		width: 400px;
+		height: 400px;
+		top: 10%;
+		right: 5%;
+		opacity: 0.6;
+	}
+
+	.square-wrapper-2 {
 		width: 500px;
 		height: 500px;
-		top: -10%;
-		right: -5%;
-	}
-
-	.circle-2 {
-		width: 600px;
-		height: 600px;
-		bottom: -15%;
-		left: -10%;
+		bottom: 5%;
+		left: -5%;
+		opacity: 0.4;
 	}
 
 	.content-wrapper {
@@ -186,18 +127,8 @@
 	}
 
 	.cta-content {
-		position: absolute;
-		left: 50%;
-		top: 50%;
-		transform: translate(-50%, -50%);
 		width: 100%;
 		text-align: center;
-		opacity: 0;
-	}
-
-	.cta-content.active,
-	.cta-content.section-0 {
-		opacity: 1;
 	}
 
 	.cta-title {
@@ -227,7 +158,8 @@
 		flex-wrap: wrap;
 	}
 
-	.cta-primary, .cta-secondary {
+	.cta-primary,
+	.cta-secondary {
 		padding: 1.25rem 2.5rem;
 		border-radius: 50px;
 		font-size: 1.1rem;
@@ -272,14 +204,24 @@
 			align-items: center;
 		}
 
-		.cta-primary, .cta-secondary {
+		.cta-primary,
+		.cta-secondary {
 			width: 100%;
 			max-width: 300px;
 		}
 
-		.circle-1, .circle-2 {
+		.square-wrapper-1 {
+			width: 250px;
+			height: 250px;
+			top: 5%;
+			right: -10%;
+		}
+
+		.square-wrapper-2 {
 			width: 300px;
 			height: 300px;
+			bottom: -5%;
+			left: -15%;
 		}
 	}
 </style>

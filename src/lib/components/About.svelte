@@ -1,133 +1,321 @@
 <script>
-	import { onMount } from 'svelte';
+	import { onMount } from "svelte";
+	import { t } from "svelte-i18n";
 
-	const benefits = [
-		'✨ Beautiful templates and customization options',
-		'🚀 Lightning-fast performance',
-		'💝 Share with unlimited recipients',
-		'🌍 Access from anywhere in the world'
-	];
+	let benefits = $derived([
+		$t("about.benefits.backup"),
+		$t("about.benefits.sync"),
+		$t("about.benefits.cloud"),
+		$t("about.benefits.support"),
+	]);
 
-	const sections = [
+	let sections = $derived([
 		{
-			title: 'Why Choose',
-			highlight: 'Memory Card Digital?',
-			subtitle: 'We believe that every memory deserves to be preserved in the most beautiful way possible.',
-			description: 'Our platform combines cutting-edge technology with intuitive design to help you create stunning digital memory cards that will last forever.'
+			title: $t("about.easyBackup.title"),
+			highlight: $t("about.easyBackup.highlight"),
+			subtitle: $t("about.easyBackup.subtitle"),
+			description: $t("about.easyBackup.description"),
 		},
 		{
-			title: 'Moments That',
-			highlight: 'Matter',
-			subtitle: 'Whether it\'s a special occasion or everyday moments...',
-			description: 'Memory Card Digital makes it easy to capture, customize, and share your memories with the people who matter most.'
-		}
+			title: $t("about.howItWorks.title"),
+			highlight: $t("about.howItWorks.highlight"),
+			subtitle: $t("about.howItWorks.subtitle"),
+			description: $t("about.howItWorks.description"),
+			steps: [
+				$t("about.steps.step1"),
+				$t("about.steps.step2"),
+				$t("about.steps.step3"),
+				$t("about.steps.step4"),
+				$t("about.steps.step5"),
+			],
+		},
+	]);
+
+	// PS2 Memory Card colors (subset for About section)
+	const memoryCardColors = [
+		{ primary: "#1e40af", secondary: "#1e3a8a", accent: "#3b82f6" }, // Blue
+		{ primary: "#7c2d12", secondary: "#991b1b", accent: "#dc2626" }, // Red
+		{ primary: "#065f46", secondary: "#064e3b", accent: "#10b981" }, // Green
 	];
 
-	onMount(async () => {
-		const { default: gsap } = await import('gsap');
-		const { ScrollTrigger } = await import('gsap/ScrollTrigger');
-		
-		gsap.registerPlugin(ScrollTrigger);
+	/** @type {HTMLCanvasElement[]} */
+	let canvasRefs = [];
 
-		// Pin the about section
-		ScrollTrigger.create({
-			trigger: '.scroll-container',
-			start: 'top top',
-			end: '+=200%',
-			pin: '.about',
-			pinSpacing: false,
-			scrub: true
-		});
+	/**
+	 * @param {HTMLCanvasElement} canvas
+	 * @param {{ primary: string; secondary: string; accent: string; }} colorScheme
+	 */
+	function drawMemoryCard(canvas, colorScheme) {
+		const ctx = canvas.getContext("2d");
+		if (!ctx) return;
+		const width = canvas.width;
+		const height = canvas.height;
 
-		// Continuous floating animation for elements
-		gsap.to('.floating-element-1', {
-			x: 40,
-			y: -30,
-			rotation: 15,
-			duration: 4,
-			repeat: -1,
-			yoyo: true,
-			ease: 'sine.inOut'
-		});
+		ctx.clearRect(0, 0, width, height);
 
-		gsap.to('.floating-element-2', {
-			x: -30,
-			y: 40,
-			rotation: -12,
-			duration: 5,
-			repeat: -1,
-			yoyo: true,
-			ease: 'sine.inOut',
-			delay: 0.5
-		});
+		// Main body
+		ctx.fillStyle = colorScheme.primary;
+		ctx.fillRect(0, 0, width, height);
 
-		gsap.to('.floating-element-3', {
-			x: 25,
-			y: 35,
-			rotation: 8,
-			duration: 4.5,
-			repeat: -1,
-			yoyo: true,
-			ease: 'sine.inOut',
-			delay: 1
-		});
+		// Top darker section (label area)
+		ctx.fillStyle = colorScheme.secondary;
+		ctx.fillRect(0, 0, width, height * 0.35);
 
-		// Create master timeline for scroll-based animations
-		const masterTimeline = gsap.timeline({
-			scrollTrigger: {
-				trigger: '.scroll-container',
-				start: 'top top',
-				end: '+=200%',
-				scrub: 1
+		// Bottom accent strip
+		ctx.fillStyle = colorScheme.accent;
+		ctx.fillRect(0, height * 0.85, width, height * 0.15);
+
+		// Connector notch at top
+		ctx.fillStyle = colorScheme.secondary;
+		const notchWidth = width * 0.6;
+		const notchHeight = height * 0.08;
+		const notchX = (width - notchWidth) / 2;
+		ctx.fillRect(notchX, 0, notchWidth, notchHeight);
+
+		// Side grip lines (left)
+		ctx.strokeStyle = colorScheme.secondary;
+		ctx.lineWidth = 2;
+		for (let i = 0; i < 5; i++) {
+			const y = height * 0.45 + i * 15;
+			ctx.beginPath();
+			ctx.moveTo(5, y);
+			ctx.lineTo(15, y);
+			ctx.stroke();
+		}
+
+		// Side grip lines (right)
+		for (let i = 0; i < 5; i++) {
+			const y = height * 0.45 + i * 15;
+			ctx.beginPath();
+			ctx.moveTo(width - 15, y);
+			ctx.lineTo(width - 5, y);
+			ctx.stroke();
+		}
+
+		// Minimalist icon circles (representing memory storage)
+		ctx.fillStyle = colorScheme.accent;
+		const iconY = height * 0.18;
+		const spacing = width / 5;
+		for (let i = 0; i < 3; i++) {
+			ctx.beginPath();
+			ctx.arc(spacing * (i + 1.5), iconY, 4, 0, Math.PI * 2);
+			ctx.fill();
+		}
+	}
+
+	onMount(() => {
+		/** @type {gsap.Context | null} */
+		let ctx = null;
+		(async () => {
+			const { default: gsap } = await import("gsap");
+			const { ScrollTrigger } = await import("gsap/ScrollTrigger");
+
+			gsap.registerPlugin(ScrollTrigger);
+
+			// Draw memory cards
+			canvasRefs.forEach((canvas, index) => {
+				if (canvas) {
+					drawMemoryCard(canvas, memoryCardColors[index]);
+				}
+			});
+
+			ctx = gsap.context(() => {
+				// Pin the about section with improved configuration
+				ScrollTrigger.create({
+					trigger: ".scroll-container",
+					start: "top top",
+					end: "+=200%",
+					pin: ".about",
+					pinSpacing: false,
+					scrub: true,
+					anticipatePin: 1, // Prevents layout shifts
+					invalidateOnRefresh: true, // Recalculates on resize/refresh
+				});
+
+				// Continuous floating animation for elements (inner)
+				gsap.to(".floating-element-1", {
+					x: 40,
+					y: -30,
+					rotation: 15,
+					duration: 4,
+					repeat: -1,
+					yoyo: true,
+					ease: "sine.inOut",
+				});
+
+				gsap.to(".floating-element-2", {
+					x: -30,
+					y: 40,
+					rotation: -12,
+					duration: 5,
+					repeat: -1,
+					yoyo: true,
+					ease: "sine.inOut",
+					delay: 0.5,
+				});
+
+				gsap.to(".floating-element-3", {
+					x: 25,
+					y: 35,
+					rotation: 8,
+					duration: 4.5,
+					repeat: -1,
+					yoyo: true,
+					ease: "sine.inOut",
+					delay: 1,
+				});
+
+				// Create master timeline for scroll-based animations
+				const masterTimeline = gsap.timeline({
+					scrollTrigger: {
+						trigger: ".scroll-container",
+						start: "top top",
+						end: "+=200%",
+						scrub: 1,
+						invalidateOnRefresh: true,
+					},
+				});
+
+				// Animate floating elements spreading (outer wrappers)
+				// Set initial state explicitly to prevent glitches
+				gsap.set(
+					".floating-wrapper-1, .floating-wrapper-2, .floating-wrapper-3",
+					{
+						x: 0,
+						y: 0,
+						scale: 1,
+					},
+				);
+
+				gsap.set(".section-0", { opacity: 1, y: 0 });
+				gsap.set(".section-1", { opacity: 0, y: 50 });
+
+				masterTimeline
+					.to(
+						".floating-wrapper-1",
+						{
+							x: -200,
+							y: -150,
+							scale: 1.2,
+							duration: 1,
+							ease: "power2.inOut",
+						},
+						0,
+					)
+					.to(
+						".floating-wrapper-2",
+						{
+							x: 250,
+							y: -100,
+							scale: 0.9,
+							duration: 1,
+							ease: "power2.inOut",
+						},
+						0,
+					)
+					.to(
+						".floating-wrapper-3",
+						{
+							x: -150,
+							y: 200,
+							scale: 1.1,
+							duration: 1,
+							ease: "power2.inOut",
+						},
+						0,
+					)
+					.to(
+						".section-0",
+						{
+							opacity: 0,
+							y: -50,
+							duration: 0.5,
+							ease: "power2.inOut",
+						},
+						0.8,
+					)
+					.to(
+						".section-1",
+						{
+							opacity: 1,
+							y: 0,
+							duration: 0.5,
+							ease: "power2.inOut",
+						},
+						1,
+					);
+
+				// Initial entrance
+				gsap.from(".section-0", {
+					opacity: 0,
+					y: 50,
+					duration: 1,
+					delay: 0.3,
+					ease: "power4.out",
+				});
+
+				gsap.from(
+					".floating-wrapper-1, .floating-wrapper-2, .floating-wrapper-3",
+					{
+						scale: 0,
+						opacity: 0,
+						duration: 1,
+						delay: 0.5,
+						stagger: 0.2,
+						ease: "back.out(1.7)",
+					},
+				);
+
+				gsap.from(".benefit-item", {
+					x: -50,
+					opacity: 0,
+					duration: 0.6,
+					delay: 1,
+					stagger: 0.15,
+					ease: "power3.out",
+				});
+			});
+		})();
+
+		return () => {
+			// Proper cleanup
+			if (ctx) {
+				ctx.revert();
 			}
-		});
-
-		// Animate floating elements spreading
-		masterTimeline
-			.to('.floating-element-1', { x: -200, y: -150, scale: 1.2, duration: 1 }, 0)
-			.to('.floating-element-2', { x: 250, y: -100, scale: 0.9, duration: 1 }, 0)
-			.to('.floating-element-3', { x: -150, y: 200, scale: 1.1, duration: 1 }, 0)
-			.to('.section-0', { opacity: 0, y: -50, duration: 0.5 }, 0.8)
-			.to('.section-1', { opacity: 1, y: 0, duration: 0.5 }, 1);
-
-		// Initial entrance
-		gsap.from('.section-0', {
-			opacity: 0,
-			y: 50,
-			duration: 1,
-			delay: 0.3,
-			ease: 'power4.out'
-		});
-
-		gsap.from('.floating-element', {
-			scale: 0,
-			opacity: 0,
-			duration: 1,
-			delay: 0.5,
-			stagger: 0.2,
-			ease: 'back.out(1.7)'
-		});
-
-		gsap.from('.benefit-item', {
-			x: -50,
-			opacity: 0,
-			duration: 0.6,
-			delay: 1,
-			stagger: 0.15,
-			ease: 'power3.out'
-		});
+			// Kill all ScrollTriggers associated with this component
+			ScrollTrigger.getAll().forEach((trigger) => {
+				if (trigger.vars.trigger === ".scroll-container") {
+					trigger.kill();
+				}
+			});
+		};
 	});
 </script>
 
 <div class="scroll-container">
 	<section id="about" class="about">
 		<div class="about-background"></div>
-		
+
 		<!-- Floating visual elements -->
 		<div class="visuals-container">
-			<div class="floating-element floating-element-1"></div>
-			<div class="floating-element floating-element-2"></div>
-			<div class="floating-element floating-element-3"></div>
+			<div class="floating-wrapper floating-wrapper-1">
+				<div class="floating-element floating-element-1">
+					<canvas bind:this={canvasRefs[0]} width="180" height="240"
+					></canvas>
+				</div>
+			</div>
+			<div class="floating-wrapper floating-wrapper-2">
+				<div class="floating-element floating-element-2">
+					<canvas bind:this={canvasRefs[1]} width="180" height="240"
+					></canvas>
+				</div>
+			</div>
+			<div class="floating-wrapper floating-wrapper-3">
+				<div class="floating-element floating-element-3">
+					<canvas bind:this={canvasRefs[2]} width="180" height="240"
+					></canvas>
+				</div>
+			</div>
 		</div>
 
 		<!-- Content sections that change on scroll -->
@@ -140,14 +328,26 @@
 					</h2>
 					<p class="about-subtitle">{section.subtitle}</p>
 					<p class="about-text">{section.description}</p>
-					
+
 					{#if i === 0}
 						<ul class="about-list">
 							{#each benefits as benefit}
 								<li class="benefit-item">{benefit}</li>
 							{/each}
 						</ul>
-						<button class="learn-more-button">Learn More</button>
+						<a href="/download" class="learn-more-button"
+							>{$t("about.downloadNow")}</a
+						>
+					{/if}
+					{#if i === 1 && section.steps}
+						<ol class="steps-list">
+							{#each section.steps as step}
+								<li class="step-item">{step}</li>
+							{/each}
+						</ol>
+						<a href="/download" class="learn-more-button"
+							>{$t("about.downloadNow")}</a
+						>
 					{/if}
 				</div>
 			{/each}
@@ -159,6 +359,7 @@
 	.scroll-container {
 		height: 300vh;
 		position: relative;
+		background: var(--dark-bg); /* Prevent white flash */
 	}
 
 	.about {
@@ -179,9 +380,16 @@
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background: 
-			radial-gradient(circle at 30% 40%, rgba(99, 102, 241, 0.15) 0%, transparent 50%),
-			radial-gradient(circle at 70% 60%, rgba(236, 72, 153, 0.15) 0%, transparent 50%);
+		background: radial-gradient(
+				circle at 30% 40%,
+				rgba(99, 102, 241, 0.15) 0%,
+				transparent 50%
+			),
+			radial-gradient(
+				circle at 70% 60%,
+				rgba(236, 72, 153, 0.15) 0%,
+				transparent 50%
+			);
 		z-index: 0;
 	}
 
@@ -195,38 +403,39 @@
 		height: 400px;
 	}
 
-	.floating-element {
+	.floating-wrapper {
 		position: absolute;
-		border-radius: 20px;
-		filter: blur(1px);
+		will-change: transform, opacity; /* Optimize animations */
+	}
+
+	.floating-element {
+		width: 100%;
+		height: 100%;
+		/* border-radius: 20px; Removed as canvas handles shape */
+		/* filter: blur(1px); Removed blur for sharper cards */
 		transform-origin: center center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 
-	.floating-element-1 {
-		width: 200px;
-		height: 200px;
-		background: linear-gradient(135deg, rgba(99, 102, 241, 0.6), rgba(139, 92, 246, 0.6));
-		top: 50px;
-		left: 50px;
-		box-shadow: 0 20px 60px rgba(99, 102, 241, 0.4);
+	.floating-element canvas {
+		filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.3));
+		border-radius: 8px;
 	}
 
-	.floating-element-2 {
+	.floating-wrapper-2 {
 		width: 150px;
 		height: 150px;
-		background: linear-gradient(135deg, rgba(236, 72, 153, 0.6), rgba(139, 92, 246, 0.6));
 		top: 100px;
 		right: 50px;
-		box-shadow: 0 20px 60px rgba(236, 72, 153, 0.4);
 	}
 
-	.floating-element-3 {
+	.floating-wrapper-3 {
 		width: 180px;
 		height: 180px;
-		background: linear-gradient(135deg, rgba(99, 102, 241, 0.6), rgba(236, 72, 153, 0.6));
 		bottom: 50px;
 		left: 100px;
-		box-shadow: 0 20px 60px rgba(139, 92, 246, 0.4);
 	}
 
 	.content-wrapper {
@@ -244,6 +453,7 @@
 		transform: translateY(-50%);
 		max-width: 600px;
 		opacity: 0;
+		will-change: opacity, transform; /* Optimize animations */
 	}
 
 	.about-content.active,
@@ -290,7 +500,21 @@
 		color: #cbd5e1;
 	}
 
+	.steps-list {
+		list-style: decimal;
+		margin: 2rem 0;
+		padding-left: 1.5rem;
+	}
+
+	.step-item {
+		font-size: 1.1rem;
+		padding: 0.75rem 0;
+		color: #cbd5e1;
+		line-height: 1.6;
+	}
+
 	.learn-more-button {
+		display: inline-block;
 		background: var(--gradient);
 		color: white;
 		padding: 1rem 2.5rem;
@@ -301,6 +525,7 @@
 		border: none;
 		cursor: pointer;
 		transition: all 0.3s ease;
+		text-decoration: none;
 	}
 
 	.learn-more-button:hover {
@@ -329,9 +554,9 @@
 			height: 300px;
 		}
 
-		.floating-element-1,
-		.floating-element-2,
-		.floating-element-3 {
+		.floating-wrapper-1,
+		.floating-wrapper-2,
+		.floating-wrapper-3 {
 			width: 100px;
 			height: 100px;
 		}

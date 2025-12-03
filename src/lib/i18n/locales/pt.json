@@ -1,0 +1,98 @@
+{
+    "navbar": {
+        "button1": "Começar Grátis",
+        "button2": "Ver Demo"
+    },
+    "versioning": {
+        "title": "Versionamento",
+        "highlight": "Inteligente",
+        "subtitle": "Mantenha histórico completo de todas as suas saves. Volte para qualquer versão anterior quando quiser, nunca perca seu progresso.",
+        "button1": "Saiba Mais",
+        "button2": "Começar"
+    },
+    "cloud": {
+        "title": "Backup na",
+        "highlight": "Nuvem",
+        "subtitle": "Assine nosso software e tenha backup em nuvem em qualquer lugar. Seus jogos protegidos e acessíveis de qualquer dispositivo.",
+        "button1": "Ver Planos",
+        "button2": "Recursos"
+    },
+    "security": {
+        "title": "Segurança",
+        "highlight": "Garantida",
+        "subtitle": "Software assinado digitalmente e criptografia avançada. Seus saves protegidos com a mesma tecnologia usada por bancos.",
+        "button1": "Começar Agora",
+        "button2": "Contato"
+    },
+    "api": "API",
+    "company": "Empresa",
+    "about": "Sobre",
+    "blog": "Blog",
+    "legal": "Legal",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "copyright": "© 2024 Memory Card Digital. Todos os direitos reservados.",
+    "subscriptionModal": {
+        "support": "🎮 Suporte para jogos não-Steam e emuladores"
+    },
+    "easyBackup": {
+        "title": "Backup Fácil",
+        "highlight": "Grátis e Local",
+        "subtitle": "Nunca mais perca seus saves de jogos. Centralize tudo em um único lugar.",
+        "description": "Nossa plataforma oferece uma solução completa para fazer backup de saves de jogos, emuladores e jogos não-Steam. Tudo acontece de forma automática e transparente."
+    },
+    "howItWorks": {
+        "title": "Como",
+        "highlight": "Funciona",
+        "subtitle": "Simples, rápido e sem complicações...",
+        "description": "Siga estes passos para começar a proteger seus saves:"
+    },
+    "steps": {
+        "step1": "Baixe o app desktop gratuito",
+        "step2": "Configure os caminhos das pastas de save dos seus jogos e emuladores",
+        "step3": "O app faz backup local centralizando tudo em um único arquivo",
+        "step4": "Assine por R$ 4,99/mês para backup automático na nuvem (opcional)",
+        "step5": "Em breve: sincronização com dispositivos mobile!"
+    },
+    "downloadNow": "Baixe Agora",
+    "getStarted": {
+        "step1": {
+            "title": "Baixar",
+            "description": "Baixe o Memory Card Digital",
+            "button": "Baixar"
+        },
+        "step2": {
+            "title": "Backup",
+            "description": "Faça backup das suas saves localmente"
+        },
+        "step3": {
+            "title": "Nuvem",
+            "description": "Sincronize com a nuvem segura"
+        }
+    },
+    "cta": {
+        "title": {
+            "part1": "Proteja Suas",
+            "highlight": "Saves de Jogos"
+        },
+        "subtitle": "Junte-se a milhares de jogadores que confiam no Memory Card Digital para proteger suas saves de emuladores e jogos. Baixe agora e comece a versionar seus backups.",
+        "buttonPrimary": "Baixar Agora",
+        "buttonSecondary": "Ver Recursos"
+    },
+    "meta": {
+        "home": {
+            "title": "Memory Card Digital - Cloud Save para Tudo",
+            "description": "Crie memory cards digitais incríveis que preservam seus momentos preciosos para sempre. Compartilhe, personalize e reviva suas memórias de uma nova maneira."
+        },
+        "about": {
+            "title": "Sobre — Memory Card Digital"
+        },
+        "download": {
+            "title": "Download — Memory Card Digital"
+        },
+        "getStarted": {
+            "title": "Começar — Memory Card Digital",
+            "description": "Comece a proteger seus saves de jogos em 3 passos simples. Baixe grátis hoje mesmo."
+        }
+    }
+}

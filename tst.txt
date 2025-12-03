@@ -1,0 +1,1292 @@
+[01:18:05 INFO]: Downloading https://papermc.io/repo/repository/maven-public/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:05 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:05 INFO]: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:05 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:05 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:06 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:06 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:07 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:07 INFO]: Downloading https://maven.fabricmc.net/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:07 INFO]: Downloading https://maven.neoforged.net/releases/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:07 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:07 INFO]: Downloading https://maven.parchmentmc.org/dev/jorel/commandapi-kotlin-paper/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:10 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:10 INFO]: Downloading https://papermc.io/repo/repository/maven-public/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:10 INFO]: Downloading https://repo.bluecolored.de/releases/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:10 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:10 INFO]: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:10 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:10 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:11 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:11 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:11 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:11 INFO]: Downloading https://maven.fabricmc.net/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:11 INFO]: Downloading https://maven.neoforged.net/releases/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:12 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:12 INFO]: Downloading https://maven.parchmentmc.org/dev/jorel/commandapi-kotlin/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:14 INFO]: Downloading https://papermc.io/repo/repository/maven-public/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:14 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:14 INFO]: Downloading https://repo.bluecolored.de/releases/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:14 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:14 INFO]: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:14 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:14 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:15 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:15 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:15 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:16 INFO]: Downloading https://maven.fabricmc.net/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:16 INFO]: Downloading https://maven.neoforged.net/releases/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:16 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:16 INFO]: Downloading https://maven.parchmentmc.org/dev/jorel/commandapi-kotlin-bukkit/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:21 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:21 INFO]: Downloading https://repo.bluecolored.de/releases/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:21 INFO]: Downloading https://papermc.io/repo/repository/maven-public/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:21 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:21 INFO]: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:21 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:21 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:22 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:22 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:23 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:23 INFO]: Downloading https://maven.fabricmc.net/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:23 INFO]: Downloading https://maven.neoforged.net/releases/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:23 INFO]: Downloading https://repo.papermc.io/repository/maven-public/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:23 INFO]: Downloading https://maven.parchmentmc.org/dev/jorel/commandapi-kotlin-core/11.0.1-SNAPSHOT/maven-metadata.xml
+[01:18:57 ERROR]: Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\emotecraft-fabric-for-MC1.21.7-3.0.0-b.build.127.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\emotecraft-fabric-for-MC1.21.7-3.0.0-b.build.127.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:85) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.Main.main(Main.java:112) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\emotecraft-fabric-for-MC1.21.7-3.0.0-b.build.127.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	... 10 more
+[01:18:58 ERROR]: Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\floodgate-velocity.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\floodgate-velocity.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:85) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.Main.main(Main.java:112) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\floodgate-velocity.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	... 10 more
+[01:18:59 ERROR]: Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\GeyserExtras-Velocity.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\GeyserExtras-Velocity.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:85) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.Main.main(Main.java:112) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\GeyserExtras-Velocity.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	... 10 more
+[01:19:00 ERROR]: Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\lightningmod-2.2-1.21.8.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\lightningmod-2.2-1.21.8.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:85) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.Main.main(Main.java:112) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\lightningmod-2.2-1.21.8.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	... 10 more
+[01:19:08 ERROR]: Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\webcam-fabric-4.4.0-1.21.8.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\webcam-fabric-4.4.0-1.21.8.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:85) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.Main.main(Main.java:112) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Directory 'plugins\.paper-remapped\webcam-fabric-4.4.0-1.21.8.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	... 10 more
+[01:19:09 INFO]: Initialized 125 plugins
+[01:19:09 INFO]: Paper plugins (13):
+ - BKCommonLib (1.21.10-v1), BMMarker (2.1.12), Bending (3.13.1), ChessCraft (0.5.2), CrazyVouchers (5.1.3), CrowdControl (4.1.0+paper), CustomNPCs (1.7.7), FancyNpcs (2.8.0), MiniMOTD (2.2.1), NpcPlugin-Paper (1.2.5-SNAPSHOT), SimpleJumpPads (1.3.1), emotecraft (3.0.0-b.build.127), magnetic (3.8.1-1.21.6+paper)
+[01:19:09 INFO]: Bukkit plugins (112):
+ - AIChatModeration (1.25.10.16), AnnouncerPlus (1.4.5), AutoTreeChop (1.7.0), AxCalendar (2.5.0), BTGraves (1.2.2), BackpackPlus (2.0.1), BankAccounts (1.11.1), BattleRoyale (1.4.4), BeautyQuests (2.0.0), BetterChairs (1.16.0), BetterKeepInventory (2.1.1), BetterNations (BETA-2.8.4), BigDoors (0.1.8.64), BigDoorsPhysics (2.4.4), BlueMap (5.13), BlueMapChatMarkers (1.6), BlueMapDeathMarkers (1.4), BlueMapFloodgate (3.5), Bookshelf (3.1.18.0), BreweryX (3.6.0;HEAD), CSMC (2.0.0), Chunker (1.21.8), ClickMobs (1.2.5), ControlPlayer (2.6.1), CrazyEnchantments (2.6.1), CrazyEnvoys (1.14.2), CustomCrafting (4.19.1.0), CustomDiscs (0.9.125), CustomDiscs (2.2.0), DecentHolograms (2.9.8), DeluxeHub (3.6.5), DiscordSRV (1.30.2), DoubleDoors (1.4), DoubleJump (2.9.1), DriveBackupV2 (1.8.0), DropHead (2.0.0), Duels (5.0), Essentials (2.21.2), EssentialsSpawn (2.21.2), EvenMoreFish (2.1.1), ExcellentCrates (6.4.2), FarmProtect (1.1), FastAsyncWorldEdit (2.13.1), FokusAPI (2.9), Geyser-Recipe-Fix (1.5), Geyser-Spigot (2.9.0-SNAPSHOT), GeyserExtras (2.0.0), GravesX (4.9.9.4), GrimAC (2.3.72), ImageFrame (1.8.7.0), Infuse (1.8.0), InvSeePlusPlus (0.30.11), IridiumSkyblock (4.1.2), ItemBridge (3.1), ItemEdit (3.7.4), JustTPA (20250220c), LagFixer (1.5.1.3 [build 134]), LightAPI (3.5.2), LuckPerms (5.5.17), MagicAbilities (0.4.4), MagicSpells (4.0-Beta-17), Maintenance (4.3.0), MobsToEggs (1.7.19), Multiverse-Core (5.3.3), Multiverse-Inventories (5.2.0), Multiverse-Portals (5.1.1), MyFurniture (1.25.11.4), NDailyRewards (3.3.0), NexusAuctionHouse (2.2.1), OneMace (1.1), OpenAudioMc (6.10.15), Parties (3.2.17), PhoenixCratesLite (4.3.0), PlaceholderAPI (2.11.7), PlayerCarry (1.1), PlayerKits2 (1.20.1), PlayerViewDistanceController (2.3.3), PowerGems (3.6.1.5), ProtocolLib (5.4.0), QualityArmory (2.0.23), QuickShop-Hikari (6.2.0.10), RegionJukebox (2.0), ServerPulse (0.5.2-SNAPSHOT), SimpleAutoRestart (2.11.0), SimplePets (5.0-BUILD-286), SimplePlayerFreeze (2.3.0), SkinsRestorer (15.8.2), Superheroes (8.3.10), TAB (5.3.2), TownsAndNations (0.16.1), Train_Carts (1.21.10-v1), UltimateShop (3.13.1), UltimateTeams (4.6.3), UltraCosmetics (3.14-RELEASE), VanillaMinimaps (1.0.1), Vault (2.17.0), ViaBackwards (5.5.1), ViaRewind (4.0.11), ViaVersion (5.5.1), VillagerInABukkit (1.3.0), WGRegionEvents (1.1), Waypoints (4.5.10), WolfyUtilities (4.19.1.2), WorldGuard (7.0.14+2339-43997ec), ajLeaderboards (2.10.1), floodgate (2.2.5-SNAPSHOT (b121-55a85ec)), lavaplayer-lib (1.0.6), rlogin (2.2), voicechat (2.6.6), voicechat-discord (3.0.13), voicemessages (1.0.11), webcam (4.4.0)
+[01:19:48 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:19:50 INFO]: Found new data pack file/bukkit, loading it automatically
+[01:19:50 INFO]: Found new data pack paper, loading it automatically
+[01:19:54 INFO]: No existing world data, creating new world
+[01:20:00 INFO]: Loaded 1407 recipes
+[01:20:00 INFO]: Loaded 1520 advancements
+[01:20:00 INFO]: Initialising converters for DataConverter...
+[01:20:03 INFO]: Finished initialising converters for DataConverter in 2,644.6ms
+[01:20:06 INFO]: Starting minecraft server version 1.21.8
+[01:20:06 INFO]: Loading properties
+[01:20:06 INFO]: This server is running Paper version 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[01:20:07 INFO]: This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:20:09 INFO]: Using 4 threads for Netty based IO
+[01:20:09 INFO]: Server Ping Player Sample Count: 12
+[01:20:10 INFO]: Paper is using 3 worker threads, 1 I/O threads
+[01:20:11 INFO]: Chunk system is using population gen parallelism: true
+[01:20:13 INFO]: Default game type: SURVIVAL
+[01:20:13 INFO]: Generating keypair
+[01:20:13 INFO]: Starting Minecraft server on *:25565
+[01:20:14 INFO]: Using default channel type
+[01:20:15 INFO]: Paper: Using Java compression from Velocity.
+[01:20:15 INFO]: Paper: Using Java cipher from Velocity.
+[01:20:15 ERROR]: Ambiguous plugin name 'CustomDiscs' for files 'plugins\.paper-remapped\CustomDiscs-2.2.0.jar' and 'plugins\.paper-remapped\customdiscs-0.9.125.jar' in 'plugins\.paper-remapped'
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\customcrafting-spigot-4.19.1.0.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [NBTAPI]. Please download and install these plugins to run 'CustomCrafting'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\CustomDiscs-2.2.0.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [CommandAPI]. Please download and install these plugins to run 'CustomDiscs'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\ExcellentCrates-6.4.2.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [nightcore]. Please download and install these plugins to run 'ExcellentCrates'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\Geyser-Recipe-Fix-1.5.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [packetevents]. Please download and install these plugins to run 'Geyser-Recipe-Fix'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\InfuseSMP.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [packetevents]. Please download and install these plugins to run 'Infuse'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\MyFurniture-1.25.11.4.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [SCore, ExecutableItems]. Please download and install these plugins to run 'MyFurniture'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\PowerGems-3.6.1.5.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [SealLib]. Please download and install these plugins to run 'PowerGems'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\TownsAndNations-0.16.1.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [SphereLib]. Please download and install these plugins to run 'TownsAndNations'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:15 ERROR]: Could not load 'plugins\.paper-remapped\wolfyutils-spigot-4.19.1.2.jar' in 'plugins\.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [NBTAPI]. Please download and install these plugins to run 'WolfyUtilities'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:20:20 ERROR]: Could not load plugin 'EssentialsXSpawn-2.21.2.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: com/earth2me/essentials/IConf
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:129) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: com/earth2me/essentials/IConf
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:536) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:515) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:79) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	... 9 more
+Caused by: java.lang.ClassNotFoundException: com.earth2me.essentials.IConf
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:205) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:172) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:536) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:515) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:79) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	... 9 more
+[01:20:24 INFO]: [BlueMap] Loading 1 libraries... please wait
+[01:20:25 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.pom
+[01:20:27 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
+[01:20:28 INFO]: [BlueMap] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\flowpowered\flow-math\1.0.3\flow-math-1.0.3.jar
+[01:20:32 WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:21:02 WARN]: Legacy plugin WGRegionEvents v1.1 does not specify an api-version.
+[01:21:05 INFO]: [BigDoors] Loading 1 libraries... please wait
+[01:21:05 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy/1.14.17/byte-buddy-1.14.17.pom
+[01:21:07 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.14.17/byte-buddy-parent-1.14.17.pom
+[01:21:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy/1.14.17/byte-buddy-1.14.17.jar
+[01:21:15 INFO]: [BigDoors] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\bytebuddy\byte-buddy\1.14.17\byte-buddy-1.14.17.jar
+[01:21:16 INFO]: [BigDoors] New file created at plugins\BigDoors\log.txt
+[01:21:17 INFO]: [Waypoints] Loading 3 libraries... please wait
+[01:21:17 INFO]: Artifact org.jetbrains.kotlin:kotlin-stdlib:pom:2.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:17 INFO]: Artifact org.jetbrains.kotlin:kotlin-stdlib:pom:2.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:18 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-reflect/2.2.0/kotlin-reflect-2.2.0.pom
+[01:21:19 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.0/kotlin-stdlib-2.2.0.jar
+[01:21:23 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-reflect/2.2.0/kotlin-reflect-2.2.0.jar
+[01:21:27 INFO]: [Waypoints] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\kotlin\kotlin-stdlib\2.2.0\kotlin-stdlib-2.2.0.jar
+[01:21:27 INFO]: [Waypoints] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\annotations\13.0\annotations-13.0.jar
+[01:21:27 INFO]: [Waypoints] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\kotlin\kotlin-reflect\2.2.0\kotlin-reflect-2.2.0.jar
+[01:21:27 INFO]: [Waypoints] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-core-jvm\1.10.2\kotlinx-coroutines-core-jvm-1.10.2.jar
+[01:21:28 INFO]: [UltraCosmetics] Loading 2 libraries... please wait
+[01:21:28 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/cryptomorin/XSeries/13.5.1/XSeries-13.5.1.pom
+[01:21:29 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/zaxxer/HikariCP/7.0.2/HikariCP-7.0.2.pom
+[01:21:29 INFO]: Artifact org.slf4j:slf4j-api:pom:2.0.17 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:29 INFO]: Artifact org.slf4j:slf4j-api:pom:2.0.17 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:30 INFO]: Artifact org.slf4j:slf4j-parent:pom:2.0.17 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:30 INFO]: Artifact org.slf4j:slf4j-parent:pom:2.0.17 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:30 INFO]: Artifact org.slf4j:slf4j-bom:pom:2.0.17 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:30 INFO]: Artifact org.slf4j:slf4j-bom:pom:2.0.17 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:31 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/cryptomorin/XSeries/13.5.1/XSeries-13.5.1.jar
+[01:21:34 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/zaxxer/HikariCP/7.0.2/HikariCP-7.0.2.jar
+[01:21:34 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+[01:21:34 INFO]: [UltraCosmetics] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\github\cryptomorin\XSeries\13.5.1\XSeries-13.5.1.jar
+[01:21:34 INFO]: [UltraCosmetics] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\zaxxer\HikariCP\7.0.2\HikariCP-7.0.2.jar
+[01:21:34 INFO]: [UltraCosmetics] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar
+[01:21:35 INFO]: [UltimateTeams] Loading 7 libraries... please wait
+[01:21:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/mysql/mysql-connector-j/9.2.0/mysql-connector-j-9.2.0.pom
+[01:21:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/protobuf/protobuf-java/4.29.0/protobuf-java-4.29.0.pom
+[01:21:36 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/protobuf/protobuf-parent/4.29.0/protobuf-parent-4.29.0.pom
+[01:21:37 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/protobuf/protobuf-bom/4.29.0/protobuf-bom-4.29.0.pom
+[01:21:37 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.pom
+[01:21:38 INFO]: Artifact org.junit:junit-bom:pom:5.7.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:38 INFO]: Artifact org.junit:junit-bom:pom:5.7.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:38 INFO]: Artifact software.amazon.awssdk:bom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:38 INFO]: Artifact software.amazon.awssdk:bom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:38 INFO]: Artifact software.amazon.awssdk:aws-sdk-java-pom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:38 INFO]: Artifact software.amazon.awssdk:aws-sdk-java-pom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:39 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.pom
+[01:21:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/waffle/waffle-parent/3.3.0/waffle-parent-3.3.0.pom
+[01:21:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.pom
+[01:21:41 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.pom
+[01:21:42 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.pom
+[01:21:42 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-parent/2.0.7/slf4j-parent-2.0.7.pom
+[01:21:42 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.pom
+[01:21:43 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.pom
+[01:21:43 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.19.0/checker-qual-3.19.0.pom
+[01:21:44 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.pom
+[01:21:45 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_parent/2.10.0/error_prone_parent-2.10.0.pom
+[01:21:45 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.pom
+[01:21:46 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.pom
+[01:21:46 INFO]: Artifact com.h2database:h2:pom:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:46 INFO]: Artifact com.h2database:h2:pom:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:21:47 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/zaxxer/HikariCP/6.2.1/HikariCP-6.2.1.pom
+[01:21:47 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.pom
+[01:21:48 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom
+[01:21:49 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/redis/clients/jedis/5.2.0/jedis-5.2.0.pom
+[01:21:50 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-pool2/2.12.0/commons-pool2-2.12.0.pom
+[01:21:52 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/62/commons-parent-62.pom
+[01:21:54 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/30/apache-30.pom
+[01:21:56 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.10.0/junit-bom-5.10.0.pom
+[01:21:58 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/json/json/20240303/json-20240303.pom
+[01:21:59 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom
+[01:22:01 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom
+[01:22:03 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.pom
+[01:22:04 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_parent/2.27.0/error_prone_parent-2.27.0.pom
+[01:22:05 INFO]: Artifact com.h2database:h2:jar:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:22:05 INFO]: Artifact com.h2database:h2:jar:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:22:05 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.jar
+[01:22:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar
+[01:22:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar
+[01:22:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar
+[01:22:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar
+[01:22:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar
+[01:22:11 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
+[01:22:13 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/zaxxer/HikariCP/6.2.1/HikariCP-6.2.1.jar
+[01:22:17 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar
+[01:22:24 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
+[01:22:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/redis/clients/jedis/5.2.0/jedis-5.2.0.jar
+[01:22:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-pool2/2.12.0/commons-pool2-2.12.0.jar
+[01:22:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/json/json/20240303/json-20240303.jar
+[01:22:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\mysql\mysql-connector-j\9.2.0\mysql-connector-j-9.2.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\protobuf\protobuf-java\4.29.0\protobuf-java-4.29.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\mariadb\jdbc\mariadb-java-client\3.4.1\mariadb-java-client-3.4.1.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\github\waffle\waffle-jna\3.3.0\waffle-jna-3.3.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\java\dev\jna\jna-platform\5.13.0\jna-platform-5.13.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\github\ben-manes\caffeine\caffeine\2.9.3\caffeine-2.9.3.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\xerial\sqlite-jdbc\3.46.1.0\sqlite-jdbc-3.46.1.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\h2database\h2\2.3.232\h2-2.3.232.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\zaxxer\HikariCP\6.2.1\HikariCP-6.2.1.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\postgresql\postgresql\42.7.3\postgresql-42.7.3.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\redis\clients\jedis\5.2.0\jedis-5.2.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\apache\commons\commons-pool2\2.12.0\commons-pool2-2.12.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\json\json\20240303\json-20240303.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar
+[01:22:43 INFO]: [UltimateTeams] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar
+[01:22:43 INFO]: [Superheroes] Loading 3 libraries... please wait
+[01:22:44 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.pom
+[01:22:44 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.0/jackson-base-2.18.0.pom
+[01:22:45 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-bom/2.18.0/jackson-bom-2.18.0.pom
+[01:22:45 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-parent/2.18/jackson-parent-2.18.pom
+[01:22:46 INFO]: Artifact com.fasterxml:oss-parent:pom:61 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:22:46 INFO]: Artifact com.fasterxml:oss-parent:pom:61 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:22:46 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.10.2/junit-bom-5.10.2.pom
+[01:22:47 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-databind/2.18.2/jackson-databind-2.18.2.pom
+[01:22:47 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.2/jackson-base-2.18.2.pom
+[01:22:48 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-bom/2.18.2/jackson-bom-2.18.2.pom
+[01:22:48 INFO]: Artifact com.fasterxml.jackson:jackson-parent:pom:2.18.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:22:48 INFO]: Artifact com.fasterxml.jackson:jackson-parent:pom:2.18.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:22:49 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-annotations/2.18.2/jackson-annotations-2.18.2.pom
+[01:22:49 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-core/2.18.2/jackson-core-2.18.2.pom
+[01:22:50 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.7.0/jackson-dataformat-yaml-2.7.0.pom
+[01:22:51 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-parent/2.7/jackson-parent-2.7.pom
+[01:22:51 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/oss-parent/25/oss-parent-25.pom
+[01:22:52 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-core/2.7.0/jackson-core-2.7.0.pom
+[01:22:54 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/yaml/snakeyaml/1.15/snakeyaml-1.15.pom
+[01:22:55 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.jar
+[01:22:56 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-databind/2.18.2/jackson-databind-2.18.2.jar
+[01:22:56 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/core/jackson-annotations/2.18.2/jackson-annotations-2.18.2.jar
+[01:22:56 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/yaml/snakeyaml/1.15/snakeyaml-1.15.jar
+[01:22:56 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.7.0/jackson-dataformat-yaml-2.7.0.jar
+[01:22:59 INFO]: [Superheroes] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\core\jackson-core\2.18.0\jackson-core-2.18.0.jar
+[01:22:59 INFO]: [Superheroes] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\core\jackson-databind\2.18.2\jackson-databind-2.18.2.jar
+[01:22:59 INFO]: [Superheroes] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\core\jackson-annotations\2.18.2\jackson-annotations-2.18.2.jar
+[01:22:59 INFO]: [Superheroes] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\dataformat\jackson-dataformat-yaml\2.7.0\jackson-dataformat-yaml-2.7.0.jar
+[01:22:59 INFO]: [Superheroes] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\yaml\snakeyaml\1.15\snakeyaml-1.15.jar
+[01:22:59 INFO]: Server is running Paper (or a Paper fork). Using PaperTPSRetriever.
+[01:22:59 INFO]: ServerPulse for Bukkit/Paper initialized - waiting for server starting...
+[01:23:00 WARN]: Legacy plugin RegionJukebox v2.0 does not specify an api-version.
+[01:23:02 ERROR]: Could not load plugin 'NexusAuctionHouse-2.2.1.jar' in folder 'plugins\.paper-remapped'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: cc/synkdev/synkLibs/components/SynkPlugin
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:129) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: cc/synkdev/synkLibs/components/SynkPlugin
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:260) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:177) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:172) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:536) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:515) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:79) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	... 9 more
+Caused by: java.lang.ClassNotFoundException: cc.synkdev.synkLibs.components.SynkPlugin
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:205) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:172) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:260) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:177) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:172) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:536) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:515) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:79) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	... 9 more
+[01:23:02 INFO]: [MobsToEggs] Loading 1 libraries... please wait
+[01:23:02 INFO]: [MobsToEggs] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\kotlin\kotlin-stdlib\2.2.0\kotlin-stdlib-2.2.0.jar
+[01:23:02 INFO]: [MobsToEggs] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\annotations\13.0\annotations-13.0.jar
+[01:23:04 INFO]: Loading language files...
+[01:23:04 INFO]: Language files loaded!
+[01:23:05 INFO]: [LagFixer] Loading 3 libraries... please wait
+[01:23:05 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.pom
+[01:23:06 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/73/commons-parent-73.pom
+[01:23:07 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/33/apache-33.pom
+[01:23:07 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.11.0/junit-bom-5.11.0.pom
+[01:23:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0.pom
+[01:23:09 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/81/commons-parent-81.pom
+[01:23:10 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.11.4/junit-bom-5.11.4.pom
+[01:23:10 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.pom
+[01:23:11 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/oshi/oshi-parent/6.8.0/oshi-parent-6.8.0.pom
+[01:23:12 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna/5.17.0/jna-5.17.0.pom
+[01:23:12 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.pom
+[01:23:13 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0.jar
+[01:23:14 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.jar
+[01:23:15 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
+[01:23:15 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
+[01:23:26 INFO]: [LagFixer] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar
+[01:23:26 INFO]: [LagFixer] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\commons-io\commons-io\2.19.0\commons-io-2.19.0.jar
+[01:23:26 INFO]: [LagFixer] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\github\oshi\oshi-core\6.8.0\oshi-core-6.8.0.jar
+[01:23:26 INFO]: [LagFixer] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\java\dev\jna\jna\5.17.0\jna-5.17.0.jar
+[01:23:26 INFO]: [LagFixer] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\java\dev\jna\jna-platform\5.17.0\jna-platform-5.17.0.jar
+[01:23:26 INFO]: [LagFixer] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar
+[01:23:26 INFO]: [ItemEdit] Loading 5 libraries... please wait
+[01:23:27 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.pom
+[01:23:29 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.pom
+[01:23:30 INFO]: Artifact net.kyori:adventure-api:pom:4.13.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:30 INFO]: Artifact net.kyori:adventure-api:pom:4.13.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:30 INFO]: Artifact net.kyori:adventure-bom:pom:4.13.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:30 INFO]: Artifact net.kyori:adventure-bom:pom:4.13.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:31 INFO]: Artifact net.kyori:adventure-key:pom:4.13.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:31 INFO]: Artifact net.kyori:adventure-key:pom:4.13.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:31 INFO]: Artifact org.jetbrains:annotations:pom:24.0.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:31 INFO]: Artifact org.jetbrains:annotations:pom:24.0.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:32 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.pom
+[01:23:33 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.pom
+[01:23:34 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.pom
+[01:23:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.pom
+[01:23:36 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.pom
+[01:23:37 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.pom
+[01:23:38 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.pom
+[01:23:39 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.pom
+[01:23:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.pom
+[01:23:41 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.pom
+[01:23:41 INFO]: Artifact net.kyori:option:pom:1.1.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:41 INFO]: Artifact net.kyori:option:pom:1.1.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:42 INFO]: Artifact org.jspecify:jspecify:pom:1.0.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:42 INFO]: Artifact org.jspecify:jspecify:pom:1.0.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:42 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.pom
+[01:23:44 INFO]: Artifact com.google.code.gson:gson:pom:2.8.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:44 INFO]: Artifact com.google.code.gson:gson:pom:2.8.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:44 INFO]: Artifact com.google.code.gson:gson-parent:pom:2.8.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:44 INFO]: Artifact com.google.code.gson:gson-parent:pom:2.8.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:45 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.pom
+[01:23:47 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/service/auto-service-aggregator/1.1.1/auto-service-aggregator-1.1.1.pom
+[01:23:49 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.pom
+[01:23:50 INFO]: Artifact com.google.code.gson:gson:jar:2.8.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:50 INFO]: Artifact com.google.code.gson:gson:jar:2.8.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:23:50 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[01:23:52 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[01:23:53 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[01:23:53 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[01:23:53 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[01:23:53 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[01:23:53 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[01:23:54 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[01:23:54 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[01:23:54 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[01:23:54 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[01:23:54 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[01:23:55 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-api\4.20.0\adventure-api-4.20.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-key\4.20.0\adventure-key-4.20.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\examination-api\1.3.0\examination-api-1.3.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\examination-string\1.3.0\examination-string-1.3.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\annotations\26.0.2\annotations-26.0.2.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-bukkit\4.3.4\adventure-platform-bukkit-4.3.4.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-api\4.3.4\adventure-platform-api-4.3.4.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-bungeecord\4.3.4\adventure-text-serializer-bungeecord-4.3.4.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-nbt\4.13.1\adventure-nbt-4.13.1.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-gson-legacy-impl\4.13.1\adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-facet\4.3.4\adventure-platform-facet-4.3.4.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-viaversion\4.3.4\adventure-platform-viaversion-4.3.4.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-minimessage\4.20.0\adventure-text-minimessage-4.20.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-gson\4.20.0\adventure-text-serializer-gson-4.20.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-json\4.20.0\adventure-text-serializer-json-4.20.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\option\1.1.0\option-1.1.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-commons\4.20.0\adventure-text-serializer-commons-4.20.0.jar
+[01:23:59 INFO]: [ItemEdit] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-legacy\4.20.0\adventure-text-serializer-legacy-4.20.0.jar
+[01:24:00 INFO]: [EvenMoreFish] Loading 8 libraries... please wait
+[01:24:01 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-core/10.22.0/flyway-core-10.22.0.pom
+[01:24:01 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-parent/10.22.0/flyway-parent-10.22.0.pom
+[01:24:02 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-toml/2.15.2/jackson-dataformat-toml-2.15.2.pom
+[01:24:04 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.15.2/jackson-dataformats-text-2.15.2.pom
+[01:24:04 INFO]: Artifact com.fasterxml.jackson:jackson-base:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:04 INFO]: Artifact com.fasterxml.jackson:jackson-base:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:04 INFO]: Artifact com.fasterxml.jackson:jackson-bom:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:04 INFO]: Artifact com.fasterxml.jackson:jackson-bom:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:04 INFO]: Artifact com.fasterxml.jackson:jackson-parent:pom:2.15 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:04 INFO]: Artifact com.fasterxml.jackson:jackson-parent:pom:2.15 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:05 INFO]: Artifact com.fasterxml:oss-parent:pom:50 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:05 INFO]: Artifact com.fasterxml:oss-parent:pom:50 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:05 INFO]: Artifact com.fasterxml.jackson.core:jackson-databind:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:05 INFO]: Artifact com.fasterxml.jackson.core:jackson-databind:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:05 INFO]: Artifact org.junit:junit-bom:pom:5.9.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:05 INFO]: Artifact org.junit:junit-bom:pom:5.9.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:06 INFO]: Artifact com.fasterxml.jackson.core:jackson-annotations:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:06 INFO]: Artifact com.fasterxml.jackson.core:jackson-annotations:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:07 INFO]: Artifact com.fasterxml.jackson.core:jackson-core:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:07 INFO]: Artifact com.fasterxml.jackson.core:jackson-core:pom:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.15.2/jackson-datatype-jsr310-2.15.2.pom
+[01:24:09 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.15.2/jackson-modules-java8-2.15.2.pom
+[01:24:10 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-mysql/10.22.0/flyway-mysql-10.22.0.pom
+[01:24:11 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/devskiller/friendly-id/friendly-id/1.1.0/friendly-id-1.1.0.pom
+[01:24:11 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/devskiller/friendly-id/friendly-id-project/1.1.0/friendly-id-project-1.1.0.pom
+[01:24:12 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-dependencies/2.1.3.RELEASE/spring-boot-dependencies-2.1.3.RELEASE.pom
+[01:24:14 INFO]: Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.8/jackson-bom-2.9.8.pom
+[01:24:14 INFO]: Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.2/jackson-parent-2.9.1.2.pom
+[01:24:14 INFO]: Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/34/oss-parent-34.pom
+[01:24:15 INFO]: Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.33.Final/netty-bom-4.1.33.Final.pom
+[01:24:16 INFO]: Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Californium-SR5/reactor-bom-Californium-SR5.pom
+[01:24:16 INFO]: Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.11.2/log4j-bom-2.11.2.pom
+[01:24:17 INFO]: Downloading https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom
+[01:24:17 INFO]: Downloading https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+[01:24:18 INFO]: Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom
+[01:24:18 INFO]: Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.27/jersey-bom-2.27.pom
+[01:24:20 INFO]: Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+[01:24:20 INFO]: Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.3.2/junit-bom-5.3.2.pom
+[01:24:21 INFO]: Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.1.5.RELEASE/spring-framework-bom-5.1.5.RELEASE.pom
+[01:24:21 INFO]: Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Lovelace-SR5/spring-data-releasetrain-Lovelace-SR5.pom
+[01:24:21 INFO]: Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.1.5.RELEASE/spring-data-build-2.1.5.RELEASE.pom
+[01:24:22 INFO]: Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.1.3.RELEASE/spring-integration-bom-5.1.3.RELEASE.pom
+[01:24:22 INFO]: Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.1.4.RELEASE/spring-security-bom-5.1.4.RELEASE.pom
+[01:24:23 INFO]: Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Bean-SR3/spring-session-bom-Bean-SR3.pom
+[01:24:23 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+[01:24:24 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/junit/junit/4.10/junit-4.10.pom
+[01:24:25 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+[01:24:27 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+[01:24:28 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/maven-artifact/4.0.0-rc-4/maven-artifact-4.0.0-rc-4.pom
+[01:24:28 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/26.0.2-1/annotations-26.0.2-1.pom
+[01:24:30 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava/33.5.0-jre/guava-33.5.0-jre.pom
+[01:24:31 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.5.0-jre/guava-parent-33.5.0-jre.pom
+[01:24:31 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.pom
+[01:24:32 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.4.0-android/guava-parent-33.4.0-android.pom
+[01:24:33 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.pom
+[01:24:34 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_parent/2.41.0/error_prone_parent-2.41.0.pom
+[01:24:35 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.pom
+[01:24:36 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/dejvokep/boosted-yaml/1.3.7/boosted-yaml-1.3.7.pom
+[01:24:36 INFO]: Artifact com.fasterxml.jackson.core:jackson-databind:jar:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:36 INFO]: Artifact com.fasterxml.jackson.core:jackson-core:jar:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:36 INFO]: Artifact com.fasterxml.jackson.core:jackson-annotations:jar:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:36 INFO]: Artifact com.fasterxml.jackson.core:jackson-databind:jar:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:36 INFO]: Artifact com.fasterxml.jackson.core:jackson-core:jar:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:36 INFO]: Artifact com.fasterxml.jackson.core:jackson-annotations:jar:2.15.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots), maven-central (https://repo1.maven.org/maven2, default, releases+snapshots), repo.gradle.org (https://repo.gradle.org/gradle/libs-releases-local/, default, releases+snapshots), redshift (https://s3.amazonaws.com/redshift-maven-repository/release/, default, releases+snapshots), flyway-community-db-support (https://maven.pkg.github.com/flyway/flyway-community-db-support, default, releases+snapshots), sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots, default, snapshots)]
+[01:24:36 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-core/10.22.0/flyway-core-10.22.0.jar
+[01:24:38 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-toml/2.15.2/jackson-dataformat-toml-2.15.2.jar
+[01:24:38 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.15.2/jackson-datatype-jsr310-2.15.2.jar
+[01:24:38 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-mysql/10.22.0/flyway-mysql-10.22.0.jar
+[01:24:38 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/devskiller/friendly-id/friendly-id/1.1.0/friendly-id-1.1.0.jar
+[01:24:38 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/junit/junit/4.10/junit-4.10.jar
+[01:24:39 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+[01:24:39 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/maven-artifact/4.0.0-rc-4/maven-artifact-4.0.0-rc-4.jar
+[01:24:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/26.0.2-1/annotations-26.0.2-1.jar
+[01:24:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar
+[01:24:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava/33.5.0-jre/guava-33.5.0-jre.jar
+[01:24:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar
+[01:24:40 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar
+[01:24:41 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/dev/dejvokep/boosted-yaml/1.3.7/boosted-yaml-1.3.7.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\flywaydb\flyway-core\10.22.0\flyway-core-10.22.0.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\dataformat\jackson-dataformat-toml\2.15.2\jackson-dataformat-toml-2.15.2.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.15.2\jackson-datatype-jsr310-2.15.2.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\flywaydb\flyway-mysql\10.22.0\flyway-mysql-10.22.0.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\devskiller\friendly-id\friendly-id\1.1.0\friendly-id-1.1.0.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\junit\junit\4.10\junit-4.10.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\apache\maven\maven-artifact\4.0.0-rc-4\maven-artifact-4.0.0-rc-4.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\annotations\26.0.2-1\annotations-26.0.2-1.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar
+[01:24:50 INFO]: [EvenMoreFish] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\dev\dejvokep\boosted-yaml\1.3.7\boosted-yaml-1.3.7.jar
+[01:24:51 INFO]: [BreweryX] Loading 1 libraries... please wait
+[01:24:52 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.pom
+[01:24:52 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.jar
+[01:24:55 INFO]: [BreweryX] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\kotlin\kotlin-stdlib\2.0.21\kotlin-stdlib-2.0.21.jar
+[01:24:55 INFO]: [BreweryX] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\annotations\13.0\annotations-13.0.jar
+[01:24:59 INFO]: [BeautyQuests] Loading 0 libraries... please wait
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\io\github\revxrsal\lamp.bukkit\4.0.0-rc.13\lamp.bukkit-4.0.0-rc.13.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\io\github\revxrsal\lamp.brigadier\4.0.0-rc.13\lamp.brigadier-4.0.0-rc.13.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\io\github\revxrsal\lamp.common\4.0.0-rc.13\lamp.common-4.0.0-rc.13.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\github\cryptomorin\XSeries\13.5.0\XSeries-13.5.0.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\zaxxer\HikariCP\6.0.0\HikariCP-6.0.0.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\fr\mrmicky\fastboard\2.1.5\fastboard-2.1.5.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-api\4.9.3\adventure-api-4.9.3.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-key\4.9.3\adventure-key-4.9.3.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\examination-api\1.3.0\examination-api-1.3.0.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\examination-string\1.3.0\examination-string-1.3.0.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\jetbrains\annotations\22.0.0\annotations-22.0.0.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-bukkit\4.0.1\adventure-platform-bukkit-4.0.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-api\4.0.1\adventure-platform-api-4.0.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-bungeecord\4.0.1\adventure-text-serializer-bungeecord-4.0.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-legacy\4.9.1\adventure-text-serializer-legacy-4.9.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-nbt\4.9.1\adventure-nbt-4.9.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-gson\4.9.1\adventure-text-serializer-gson-4.9.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-text-serializer-gson-legacy-impl\4.9.1\adventure-text-serializer-gson-legacy-impl-4.9.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-facet\4.0.1\adventure-platform-facet-4.0.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\kyori\adventure-platform-viaversion\4.0.1\adventure-platform-viaversion-4.0.1.jar
+[01:25:04 INFO]: [BeautyQuests] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\commons-lang\commons-lang\2.6\commons-lang-2.6.jar
+[01:25:04 WARN]: Legacy plugin BattleRoyale v1.4.4 does not specify an api-version.
+[01:25:04 INFO]: [BankAccounts] Loading 2 libraries... please wait
+[01:25:05 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.1/mariadb-java-client-3.5.1.pom
+[01:25:08 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.1/mariadb-java-client-3.5.1.jar
+[01:25:12 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar
+[01:25:12 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\mariadb\jdbc\mariadb-java-client\3.5.1\mariadb-java-client-3.5.1.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\github\waffle\waffle-jna\3.3.0\waffle-jna-3.3.0.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\net\java\dev\jna\jna-platform\5.13.0\jna-platform-5.13.0.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\github\ben-manes\caffeine\caffeine\2.9.3\caffeine-2.9.3.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\errorprone\error_prone_annotations\2.10.0\error_prone_annotations-2.10.0.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\checkerframework\checker-qual\3.32.0\checker-qual-3.32.0.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\zaxxer\HikariCP\6.2.1\HikariCP-6.2.1.jar
+[01:25:15 INFO]: [BankAccounts] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar
+[01:25:15 INFO]: [BackpackPlus] Loading 4 libraries... please wait
+[01:25:16 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/mysql/mysql-connector-j/9.4.0/mysql-connector-j-9.4.0.pom
+[01:25:16 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/protobuf/protobuf-java/4.31.1/protobuf-java-4.31.1.pom
+[01:25:17 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/protobuf/protobuf-parent/4.31.1/protobuf-parent-4.31.1.pom
+[01:25:17 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/protobuf/protobuf-bom/4.31.1/protobuf-bom-4.31.1.pom
+[01:25:18 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/xerial/sqlite-jdbc/3.50.3.0/sqlite-jdbc-3.50.3.0.pom
+[01:25:19 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.12.2/junit-bom-5.12.2.pom
+[01:25:19 INFO]: Artifact org.postgresql:postgresql:pom:42.7.7 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:19 INFO]: Artifact org.postgresql:postgresql:pom:42.7.7 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:19 INFO]: Artifact org.checkerframework:checker-qual:pom:3.49.3 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:19 INFO]: Artifact org.checkerframework:checker-qual:pom:3.49.3 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:20 INFO]: Artifact org.postgresql:postgresql:jar:42.7.7 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:20 INFO]: Artifact org.checkerframework:checker-qual:jar:3.49.3 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:20 INFO]: Artifact org.postgresql:postgresql:jar:42.7.7 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:20 INFO]: Artifact org.checkerframework:checker-qual:jar:3.49.3 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://maven-central.storage-download.googleapis.com/maven2, default, releases+snapshots)]
+[01:25:20 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/mysql/mysql-connector-j/9.4.0/mysql-connector-j-9.4.0.jar
+[01:25:22 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/protobuf/protobuf-java/4.31.1/protobuf-java-4.31.1.jar
+[01:25:22 INFO]: Downloading https://maven-central.storage-download.googleapis.com/maven2/org/xerial/sqlite-jdbc/3.50.3.0/sqlite-jdbc-3.50.3.0.jar
+[01:25:31 INFO]: [BackpackPlus] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\zaxxer\HikariCP\7.0.2\HikariCP-7.0.2.jar
+[01:25:31 INFO]: [BackpackPlus] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar
+[01:25:31 INFO]: [BackpackPlus] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\mysql\mysql-connector-j\9.4.0\mysql-connector-j-9.4.0.jar
+[01:25:31 INFO]: [BackpackPlus] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\com\google\protobuf\protobuf-java\4.31.1\protobuf-java-4.31.1.jar
+[01:25:31 INFO]: [BackpackPlus] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\xerial\sqlite-jdbc\3.50.3.0\sqlite-jdbc-3.50.3.0.jar
+[01:25:31 INFO]: [BackpackPlus] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\postgresql\postgresql\42.7.7\postgresql-42.7.7.jar
+[01:25:31 INFO]: [BackpackPlus] Loaded library F:\git-repos\public\tropicaliacraft-java-bedrock-server\paper\1.21.8\libraries\org\checkerframework\checker-qual\3.49.3\checker-qual-3.49.3.jar
+[01:27:40 INFO]: Loading server plugin ViaVersion v5.5.1
+[01:27:40 INFO]: ViaVersion 5.5.1 is now loaded. Registering protocol transformers and injecting...
+[01:27:43 INFO]: Loading block connection mappings ...
+[01:27:43 INFO]: Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:27:45 INFO]: Loading translations...
+[01:27:45 INFO]: Registering protocols...
+[01:27:47 INFO]: Registering protocols...
+[01:27:47 INFO]: Loading server plugin PlaceholderAPI v2.11.7
+[01:27:47 INFO]: Loading server plugin LuckPerms v5.5.17
+[01:28:07 INFO]: Loading configuration...
+[01:28:08 INFO]: Loading server plugin FastAsyncWorldEdit v2.13.1
+[01:28:08 INFO]: Default configuration file written: worldedit-config.yml
+[01:28:17 INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@40384878]
+[01:28:17 INFO]: Loading server plugin Vault v2.17.0
+[01:28:17 INFO]: Loading server plugin IridiumSkyblock v4.1.2
+[01:28:21 INFO]: GENERATOR TYPE: VOID
+[01:28:23 INFO]: Loading world generator...
+[01:28:23 INFO]: Generator Type = VOID
+[01:28:23 INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.3.3
+[01:28:23 INFO]: Loading server plugin DeluxeHub v3.6.5
+[01:28:23 INFO]: Loading server plugin ProtocolLib v5.4.0
+[01:28:25 INFO]: Loading server plugin WorldGuard v7.0.14+2339-43997ec
+[01:28:25 INFO]: Loading server plugin ViaBackwards v5.5.1
+[01:28:25 INFO]: Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[01:28:30 INFO]: Took 4,300ms to boot Floodgate
+[01:28:30 INFO]: Loading server plugin Essentials v2.21.2
+[01:28:30 INFO]: Loading server plugin LightAPI v3.5.2
+[01:28:30 INFO]: Loading server plugin BKCommonLib v1.21.10-v1
+[01:28:50 INFO]: Loading server plugin ItemBridge v3.1
+[01:28:50 INFO]: Loading server plugin Parties v3.2.17
+[01:28:50 INFO]: Loading libraries of Parties v3.2.17, this may take a while
+[01:28:52 INFO]: Downloading jar-relocator...
+[01:28:53 INFO]: Verifying checksum for jar-relocator
+[01:28:54 INFO]: Downloading asm...
+[01:28:55 INFO]: Verifying checksum for asm
+[01:28:56 INFO]: Downloading asm-commons...
+[01:28:56 INFO]: Verifying checksum for asm-commons
+[01:28:58 INFO]: Downloading gson...
+[01:28:58 INFO]: Verifying checksum for gson
+[01:28:59 INFO]: Downloading jdbi3-core...
+[01:29:00 INFO]: Verifying checksum for jdbi3-core
+[01:29:03 INFO]: Downloading geantyref...
+[01:29:03 INFO]: Verifying checksum for geantyref
+[01:29:04 INFO]: Downloading caffeine...
+[01:29:05 INFO]: Verifying checksum for caffeine
+[01:29:07 INFO]: Downloading jdbi3-stringtemplate4...
+[01:29:08 INFO]: Verifying checksum for jdbi3-stringtemplate4
+[01:29:09 INFO]: Downloading ST4...
+[01:29:09 INFO]: Verifying checksum for ST4
+[01:29:11 INFO]: Downloading antlr-runtime...
+[01:29:11 INFO]: Verifying checksum for antlr-runtime
+[01:29:13 INFO]: Downloading jdbi3-sqlobject...
+[01:29:13 INFO]: Verifying checksum for jdbi3-sqlobject
+[01:29:14 INFO]: Downloading slf4j-api...
+[01:29:14 INFO]: Verifying checksum for slf4j-api
+[01:29:16 INFO]: Downloading slf4j-simple...
+[01:29:16 INFO]: Verifying checksum for slf4j-simple
+[01:29:18 INFO]: Downloading HikariCP...
+[01:29:18 INFO]: Verifying checksum for HikariCP
+[01:29:20 INFO]: Downloading mariadb-java-client...
+[01:29:21 INFO]: Verifying checksum for mariadb-java-client
+[01:29:23 INFO]: Downloading mysql-connector-j...
+[01:29:25 INFO]: Verifying checksum for mysql-connector-j
+[01:29:29 INFO]: Downloading postgresql...
+[01:29:29 INFO]: Verifying checksum for postgresql
+[01:29:32 INFO]: Downloading h2...
+[01:29:34 INFO]: Verifying checksum for h2
+[01:29:38 INFO]: Downloading exp4j...
+[01:29:38 INFO]: Verifying checksum for exp4j
+[01:29:40 INFO]: Loading server plugin ViaRewind v4.0.11
+[01:29:40 INFO]: Loading server plugin Geyser-Spigot v2.9.0-SNAPSHOT
+[01:29:44 INFO]: Loading extensions...
+[01:29:44 INFO]: Loaded 0 extension(s)
+[01:29:44 INFO]: Loading server plugin BlueMap v5.13
+[01:29:44 INFO]: Loading server plugin voicechat v2.6.6
+[01:29:44 INFO]: Loading server plugin DiscordSRV v1.30.2
+[01:29:44 INFO]: Loading server plugin WGRegionEvents v1.1
+[01:29:44 INFO]: Loading server plugin Train_Carts v1.21.10-v1
+[01:29:48 INFO]: Loading server plugin Multiverse-Inventories v5.2.0
+[01:29:48 INFO]: Loading server plugin FancyNpcs v2.8.0
+[01:29:48 INFO]: Loading server plugin QualityArmory v2.0.23
+[01:29:48 INFO]: Loading server plugin DecentHolograms v2.9.8
+[01:29:48 INFO]: Loading server plugin BigDoors v0.1.8.64
+[01:29:48 INFO]: Loading server plugin SkinsRestorer v15.8.2
+[01:29:48 INFO]: Loading server plugin webcam v4.4.0
+[01:29:48 INFO]: Loading server plugin Waypoints v4.5.10
+[01:29:56 INFO]: Loading server plugin voicemessages v1.0.11
+[01:29:56 INFO]: Loading server plugin voicechat-discord v3.0.13
+[01:29:56 INFO]: Loading server plugin VillagerInABukkit v1.3.0
+[01:29:56 INFO]: Loading server plugin VanillaMinimaps v1.0.1
+[01:29:56 INFO]: Loading server plugin UltraCosmetics v3.14-RELEASE
+[01:29:57 INFO]: Loading server plugin UltimateTeams v4.6.3
+[01:29:57 INFO]: Loading server plugin UltimateShop v3.13.1
+[01:29:57 INFO]: Loading server plugin JustTPA v20250220c
+[01:29:57 INFO]: Loading server plugin TAB v5.3.2
+[01:29:57 INFO]: Loading server plugin Superheroes v8.3.10
+[01:29:57 INFO]: Loading server plugin SimplePlayerFreeze v2.3.0
+[01:29:57 INFO]: Loading server plugin SimplePets v5.0-BUILD-286
+[01:29:57 INFO]: Loading server plugin SimpleJumpPads v1.3.1
+[01:29:57 INFO]: Loading server plugin SimpleAutoRestart v2.11.0
+[01:29:57 INFO]: Loading server plugin ServerPulse v0.5.2-SNAPSHOT
+[01:29:57 INFO]: Loading server plugin rlogin v2.2
+[01:29:57 INFO]: Loading server plugin RegionJukebox v2.0
+[01:29:57 INFO]: Loading server plugin QuickShop-Hikari v6.2.0.10
+[01:29:57 INFO]: QuickShop-Hikari - Bootstrap -> Execute the initialization sequence
+[01:29:57 INFO]: Bootloader preparing for startup, please wait...
+[01:29:57 INFO]: Initializing libraries...
+[01:29:58 INFO]: Maven repository mirror test result:
+[01:29:58 INFO]: [US] CENTRAL: 138ms
+[01:29:58 INFO]: [US] APACHE: 374ms
+[01:29:58 INFO]: [CN] ALIYUN: 773ms
+[01:29:58 INFO]: [CN] TENCENT: 1066ms
+[01:29:58 INFO]: [CN] HUAWEI: 1149ms
+[01:29:58 INFO]: Loading 12 libraries (0 skipped libraries)...
+[01:29:58 INFO]: Loading library org.apache.commons:commons-lang3:3.14.0 [1/12]
+[01:29:59 INFO]: Downloaded library https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
+[01:29:59 INFO]: Downloaded library https://repo1.maven.org/maven2/com/alessiodp/libby/maven/resolver/libby-maven-resolver/1.0.0/libby-maven-resolver-1.0.0.jar
+[01:29:59 ERROR]: [STDERR] [org.slf4j.helpers.Util] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[01:29:59 ERROR]: [STDERR] [org.slf4j.helpers.Util] SLF4J: Defaulting to no-operation (NOP) logger implementation
+[01:29:59 ERROR]: [STDERR] [org.slf4j.helpers.Util] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[01:30:03 INFO]: Loading library org.apache.commons:commons-compress:1.25.0 [2/12]
+[01:30:03 INFO]: Downloaded library https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.jar
+[01:30:13 INFO]: Loading library com.google.code.gson:gson:2.10.1 [3/12]
+[01:30:13 INFO]: Downloaded library file:/F:/git-repos/public/tropicaliacraft-java-bedrock-server/paper/1.21.8/libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+[01:30:14 INFO]: Loading library com.google.guava:guava:33.1.0-jre [4/12]
+[01:30:14 INFO]: Downloaded library https://repo1.maven.org/maven2/com/google/guava/guava/33.1.0-jre/guava-33.1.0-jre.jar
+[01:30:22 INFO]: Loading library com.rollbar:rollbar-java:1.9.0 [5/12]
+[01:30:22 INFO]: Downloaded library https://repo1.maven.org/maven2/com/rollbar/rollbar-java/1.9.0/rollbar-java-1.9.0.jar
+[01:30:26 INFO]: Loading library cc.carm.lib:easysql-hikaricp:0.4.7 [6/12]
+[01:30:26 INFO]: Downloaded library https://repo1.maven.org/maven2/cc/carm/lib/easysql-hikaricp/0.4.7/easysql-hikaricp-0.4.7.jar
+[01:30:33 INFO]: Loading library com.h2database:h2:2.1.214 [7/12]
+[01:30:33 INFO]: Downloaded library https://repo1.maven.org/maven2/com/h2database/h2/2.1.214/h2-2.1.214.jar
+[01:30:34 INFO]: Loading library com.konghq:unirest-java:3.14.5 [8/12]
+[01:30:34 INFO]: Downloaded library https://repo1.maven.org/maven2/com/konghq/unirest-java/3.14.5/unirest-java-3.14.5.jar
+[01:30:54 INFO]: Loading library net.sourceforge.csvjdbc:csvjdbc:1.0.42 [9/12]
+[01:30:54 INFO]: Downloaded library https://repo1.maven.org/maven2/net/sourceforge/csvjdbc/csvjdbc/1.0.42/csvjdbc-1.0.42.jar
+[01:30:57 INFO]: Loading library org.dom4j:dom4j:2.1.4 [10/12]
+[01:30:57 INFO]: Downloaded library https://repo1.maven.org/maven2/org/dom4j/dom4j/2.1.4/dom4j-2.1.4.jar
+[01:31:06 INFO]: Loading library com.vdurmont:semver4j:3.1.0 [11/12]
+[01:31:06 INFO]: Downloaded library https://repo1.maven.org/maven2/com/vdurmont/semver4j/3.1.0/semver4j-3.1.0.jar
+[01:31:07 INFO]: Loading library com.ghostchu.crowdin:crowdinota:1.0.3 [12/12]
+[01:31:08 INFO]: Downloaded library https://repo1.maven.org/maven2/com/ghostchu/crowdin/crowdinota/1.0.3/crowdinota-1.0.3.jar
+[01:31:22 INFO]: Initialing Unirest...
+[01:31:27 INFO]: Initializing platform...
+[01:31:27 INFO]: Platform detected: Paper
+[01:31:27 INFO]: Slf4jLogger initialized
+[01:31:27 INFO]: Platform initialized: com.ghostchu.quickshop.platform.paper.PaperPlatform
+[01:31:27 INFO]: Boot QuickShop instance...
+[01:31:27 INFO]: Creating QuickShop instance...
+[01:31:28 INFO]: Registering Bukkit Service: com.ghostchu.quickshop.api.QuickShopProvider
+[01:31:28 INFO]: QuickShop Hikari - Early boot step - Booting up
+[01:31:28 INFO]: Self testing...
+[01:31:28 INFO]: Reading the configuration...
+[01:31:28 INFO]: [ConfigUpdater] Saving configuration changes...
+[01:31:28 INFO]: Setting up privacy controller...
+[01:31:28 INFO]: Setting up QuickShop registry....
+[01:31:28 INFO]: Setting up metrics manager...
+[01:31:28 INFO]: Loading player name and unique id mapping...
+[01:31:28 INFO]: Loading translations (This may take a while)...
+[01:31:28 INFO]: Please wait us fetch the translation updates from Crowdin OTA service...
+[01:31:30 INFO]: Downloading Crowdin distribution manifest from remote server...
+[01:31:31 INFO]: Downloading translations for 36 locales...
+[01:31:31 INFO]: Downloading translation for de...
+[01:31:31 INFO]: Downloading translation for no...
+[01:31:31 INFO]: Downloading translation for hi...
+[01:31:31 INFO]: Downloading translation for fi...
+[01:31:31 INFO]: Downloading translation for ru...
+[01:31:31 INFO]: Downloading translation for bg...
+[01:31:31 INFO]: Downloading translation for lt...
+[01:31:31 INFO]: Downloading translation for fr...
+[01:31:31 INFO]: Downloading translation for hu...
+[01:31:31 INFO]: Downloading translation for zh-CN...
+[01:31:31 INFO]: Downloading translation for uk...
+[01:31:31 INFO]: Downloading translation for sr...
+[01:31:31 INFO]: Downloading translation for ko...
+[01:31:31 INFO]: Downloading translation for ca...
+[01:31:31 INFO]: Downloading translation for af...
+[01:31:31 INFO]: Downloading translation for zh-TW...
+[01:31:32 INFO]: Downloaded translation for uk.
+[01:31:32 INFO]: Downloading translation for zh-HK...
+[01:31:32 INFO]: Downloaded translation for zh-TW.
+[01:31:32 INFO]: Downloaded translation for ko.
+[01:31:32 INFO]: Downloading translation for pt-BR...
+[01:31:32 INFO]: Downloading translation for el...
+[01:31:32 INFO]: Downloaded translation for sr.
+[01:31:32 INFO]: Downloading translation for es-ES...
+[01:31:32 INFO]: Downloading translation for en...
+[01:31:32 INFO]: Downloading translation for it...
+[01:31:32 INFO]: Downloaded translation for fr.
+[01:31:32 INFO]: Downloading translation for cs...
+[01:31:33 INFO]: Downloaded translation for el.
+[01:31:33 INFO]: Downloading translation for ar...
+[01:31:33 INFO]: Downloaded translation for zh-CN.
+[01:31:33 INFO]: Downloaded translation for af.
+[01:31:33 INFO]: Downloaded translation for es-ES.
+[01:31:33 INFO]: Downloading translation for pt-PT...
+[01:31:33 INFO]: Downloading translation for th...
+[01:31:33 INFO]: Downloading translation for vi...
+[01:31:33 INFO]: Downloaded translation for en.
+[01:31:33 INFO]: Downloading translation for sv-SE...
+[01:31:33 INFO]: Downloaded translation for pt-BR.
+[01:31:33 INFO]: Downloading translation for ja...
+[01:31:33 INFO]: Downloaded translation for it.
+[01:31:33 INFO]: Downloading translation for fa...
+[01:31:33 INFO]: Downloaded translation for ca.
+[01:31:33 INFO]: Downloading translation for pl...
+[01:31:33 INFO]: Downloaded translation for hu.
+[01:31:33 INFO]: Downloading translation for ro...
+[01:31:33 INFO]: Downloaded translation for fi.
+[01:31:33 INFO]: Downloading translation for da...
+[01:31:33 INFO]: Downloaded translation for ru.
+[01:31:33 INFO]: Downloading translation for he...
+[01:31:33 INFO]: Downloaded translation for de.
+[01:31:33 INFO]: Downloading translation for nl...
+[01:31:33 INFO]: Downloaded translation for no.
+[01:31:33 INFO]: Downloading translation for tr...
+[01:31:33 INFO]: Downloaded translation for bg.
+[01:31:33 INFO]: Downloaded translation for hi.
+[01:31:34 INFO]: Downloaded translation for cs.
+[01:31:34 INFO]: Downloaded translation for ar.
+[01:31:34 INFO]: Downloaded translation for da.
+[01:31:34 INFO]: Downloaded translation for sv-SE.
+[01:31:34 INFO]: Downloaded translation for pt-PT.
+[01:31:34 INFO]: Downloaded translation for he.
+[01:31:34 INFO]: Downloaded translation for th.
+[01:31:34 INFO]: Downloaded translation for ro.
+[01:31:34 INFO]: Downloaded translation for ja.
+[01:31:34 INFO]: Downloaded translation for pl.
+[01:31:34 INFO]: Downloaded translation for fa.
+[01:31:34 INFO]: Downloaded translation for vi.
+[01:31:34 INFO]: Downloaded translation for nl.
+[01:31:34 INFO]: Downloaded translation for tr.
+[01:31:34 INFO]: Downloading translations for 36 locales...
+[01:31:34 INFO]: Downloading translation for de...
+[01:31:34 INFO]: Downloading translation for no...
+[01:31:34 INFO]: Downloading translation for fi...
+[01:31:34 INFO]: Downloading translation for hi...
+[01:31:34 INFO]: Downloading translation for ru...
+[01:31:34 INFO]: Downloading translation for bg...
+[01:31:34 INFO]: Downloading translation for fr...
+[01:31:34 INFO]: Downloading translation for hu...
+[01:31:34 INFO]: Downloading translation for lt...
+[01:31:34 INFO]: Downloading translation for zh-CN...
+[01:31:34 INFO]: Downloading translation for uk...
+[01:31:34 INFO]: Downloading translation for sr...
+[01:31:34 INFO]: Downloading translation for ca...
+[01:31:34 INFO]: Downloading translation for ko...
+[01:31:34 INFO]: Downloading translation for af...
+[01:31:34 INFO]: Downloading translation for zh-TW...
+[01:31:35 INFO]: Downloaded translation for fi.
+[01:31:35 INFO]: Downloaded translation for ru.
+[01:31:35 INFO]: Downloading translation for zh-HK...
+[01:31:35 INFO]: Downloading translation for pt-BR...
+[01:31:35 INFO]: Downloading translation for el...
+[01:31:35 INFO]: Downloading translation for es-ES...
+[01:31:35 INFO]: Downloaded translation for de.
+[01:31:35 INFO]: Downloading translation for en...
+[01:31:35 INFO]: Downloading translation for it...
+[01:31:35 INFO]: Downloaded translation for hi.
+[01:31:35 INFO]: Downloading translation for cs...
+[01:31:35 INFO]: Downloaded translation for sr.
+[01:31:35 INFO]: Downloading translation for ar...
+[01:31:35 INFO]: Downloaded translation for no.
+[01:31:35 INFO]: Downloading translation for pt-PT...
+[01:31:35 INFO]: Downloaded translation for ca.
+[01:31:35 INFO]: Downloading translation for vi...
+[01:31:35 INFO]: Downloaded translation for lt.
+[01:31:35 INFO]: Downloading translation for th...
+[01:31:35 INFO]: Downloaded translation for zh-TW.
+[01:31:35 INFO]: Downloading translation for sv-SE...
+[01:31:35 INFO]: Downloaded translation for uk.
+[01:31:35 INFO]: Downloaded translation for hu.
+[01:31:35 INFO]: Downloading translation for fa...
+[01:31:35 INFO]: Downloading translation for ja...
+[01:31:35 INFO]: Downloaded translation for pt-BR.
+[01:31:35 INFO]: Downloaded translation for fr.
+[01:31:35 INFO]: Downloaded translation for bg.
+[01:31:35 INFO]: Downloading translation for pl...
+[01:31:35 INFO]: Downloading translation for ro...
+[01:31:35 INFO]: Downloading translation for da...
+[01:31:35 INFO]: Downloaded translation for es-ES.
+[01:31:35 INFO]: Downloading translation for he...
+[01:31:35 INFO]: Downloaded translation for it.
+[01:31:35 INFO]: Downloading translation for nl...
+[01:31:35 INFO]: Downloading translation for tr...
+[01:31:35 INFO]: Downloaded translation for en.
+[01:31:35 INFO]: Downloaded translation for el.
+[01:31:35 INFO]: Downloaded translation for da.
+[01:31:35 INFO]: Downloaded translation for th.
+[01:31:35 INFO]: Downloaded translation for ro.
+[01:31:35 INFO]: Downloaded translation for ja.
+[01:31:35 INFO]: Downloaded translation for vi.
+[01:31:35 INFO]: Downloaded translation for pt-PT.
+[01:31:35 INFO]: Downloaded translation for sv-SE.
+[01:31:35 INFO]: Downloaded translation for cs.
+[01:31:35 INFO]: Downloaded translation for fa.
+[01:31:35 INFO]: Downloaded translation for zh-HK.
+[01:31:35 INFO]: Downloaded translation for ar.
+[01:31:35 INFO]: Downloaded translation for he.
+[01:31:35 INFO]: Downloaded translation for nl.
+[01:31:35 INFO]: Downloaded translation for tr.
+[01:31:35 INFO]: Loading up translations from Crowdin OTA, this may need a while...
+[01:31:41 INFO]: Loading up translations from Crowdin OTA, this may need a while...
+[01:31:42 INFO]: Register InventoryWrapper...
+[01:31:42 INFO]: Initializing NexusManager...
+[01:31:42 INFO]: QuickShop Hikari - Early boot step - Complete
+[01:31:42 INFO]: QuickShop-Hikari - Bootstrap -> Complete (105555ms). Waiting for enable...
+[01:31:42 INFO]: Loading server plugin PlayerViewDistanceController v2.3.3
+[01:31:42 INFO]: Loading server plugin PlayerKits2 v1.20.1
+[01:31:42 INFO]: Loading server plugin PlayerCarry v1.1
+[01:31:42 INFO]: Loading server plugin PhoenixCratesLite v4.3.0
+[01:31:42 INFO]: Loading server plugin OpenAudioMc v6.10.15
+[01:31:42 INFO]: Loading server plugin OneMace v1.1
+[01:31:42 INFO]: Loading server plugin NpcPlugin-Paper v1.2.5-SNAPSHOT
+[01:31:42 INFO]: Loading server plugin NDailyRewards v3.3.0
+[01:31:43 INFO]: Resolving dependencies...
+[01:31:53 INFO]: Resolved 18 dependencies
+[01:31:54 INFO]: Downloaded io.papermc:paperlib:1.0.8 from https://repo.papermc.io/repository/maven-public
+[01:31:55 INFO]: Downloaded com.zaxxer:HikariCP:7.0.0 from https://repo.papermc.io/repository/maven-public
+[01:31:55 INFO]: Downloaded org.mariadb.jdbc:mariadb-java-client:3.5.4 from https://repo.papermc.io/repository/maven-public
+[01:31:56 INFO]: Downloaded com.j256.ormlite:ormlite-core:6.1 from https://repo.papermc.io/repository/maven-public
+[01:31:57 INFO]: Downloaded com.j256.ormlite:ormlite-jdbc:6.1 from https://repo.papermc.io/repository/maven-public
+[01:31:57 INFO]: Downloaded aopalliance:aopalliance:1.0 from https://repo.papermc.io/repository/maven-public
+[01:31:58 INFO]: Downloaded com.google.inject:guice:5.1.0 from https://repo.papermc.io/repository/maven-public
+[01:31:58 INFO]: Downloaded com.google.inject.extensions:guice-assistedinject:5.1.0 from https://repo.papermc.io/repository/maven-public
+[01:31:58 INFO]: Downloaded io.github.revxrsal:lamp.common:4.0.0-rc.12 from https://repo.papermc.io/repository/maven-public
+[01:31:59 INFO]: Downloaded io.github.revxrsal:lamp.bukkit:4.0.0-rc.12 from https://repo.papermc.io/repository/maven-public
+[01:31:59 INFO]: Downloaded org.slf4j:slf4j-api:2.0.17 from https://repo.papermc.io/repository/maven-public
+[01:32:00 INFO]: Downloaded org.openjdk.jmh:jmh-core:1.37 from https://repo.papermc.io/repository/maven-public
+[01:32:00 INFO]: Downloaded org.openjdk.jmh:jmh-generator-annprocess:1.37 from https://repo.papermc.io/repository/maven-public
+[01:32:01 INFO]: Downloaded com.mysql:mysql-connector-j:9.1.0 from https://repo.papermc.io/repository/maven-public
+[01:32:02 INFO]: Downloaded com.zaxxer:HikariCP:5.0.1 from https://repo.papermc.io/repository/maven-public
+[01:32:02 INFO]: Downloaded io.github.revxrsal:lamp.brigadier:4.0.0-rc.12 from https://repo.papermc.io/repository/maven-public
+[01:32:04 INFO]: Downloaded com.google.protobuf:protobuf-java:4.26.1 from https://repo.papermc.io/repository/maven-public
+[01:32:05 INFO]: Downloaded org.slf4j:slf4j-api:2.0.0-alpha1 from https://repo.papermc.io/repository/maven-public
+[01:32:05 INFO]: Loaded 18 dependencies in 22069 ms
+[01:32:05 INFO]: Loading server plugin Multiverse-Portals v5.1.1
+[01:32:05 INFO]: Loading server plugin MobsToEggs v1.7.19
+[01:32:05 INFO]: Loading server plugin MiniMOTD v2.2.1
+[01:32:05 INFO]: Loading server plugin Maintenance v4.3.0
+[01:32:05 INFO]: Loading server plugin magnetic v3.8.1-1.21.6+paper
+[01:32:07 INFO]: Loading server plugin MagicSpells v4.0-Beta-17
+[01:32:07 INFO]: Loading server plugin MagicAbilities v0.4.4
+[01:32:07 INFO]: Loading server plugin lavaplayer-lib v1.0.6
+[01:32:07 INFO]: Loading server plugin LagFixer v1.5.1.3 [build 134]
+[01:32:07 INFO]: Loading server plugin ItemEdit v3.7.4
+[01:32:07 INFO]: Loading server plugin InvSeePlusPlus v0.30.11
+[01:32:07 INFO]: Loading server plugin ImageFrame v1.8.7.0
+[01:32:07 INFO]: Loading server plugin GrimAC v2.3.72
+[01:32:09 INFO]: Loading PacketEvents...
+[01:32:17 INFO]: Loading server plugin GravesX v4.9.9.4
+[01:32:18 INFO]: [Modules] No module jars found in plugins\GravesX\modules
+[01:32:18 INFO]: [Modules] Loaded descriptors during onLoad.
+[01:32:18 INFO]: Loading server plugin BTGraves v1.2.2
+[01:32:18 INFO]: Loading server plugin GeyserExtras v2.0.0
+[01:32:18 INFO]: Loading server plugin FokusAPI v2.9
+[01:32:18 INFO]: Loading server plugin FarmProtect v1.1
+[01:32:18 INFO]: Loading server plugin EvenMoreFish v2.1.1
+[01:32:18 INFO]: [NBTAPI] Found Minecraft: 1.21.8! Trying to find NMS support
+[01:32:18 INFO]: [NBTAPI] NMS support 'MC1_21_R5' loaded!
+[01:32:18 INFO]: [NBTAPI] Using the plugin 'EvenMoreFish' to create a bStats instance!
+[01:32:18 INFO]: Loading server plugin emotecraft v3.0.0-b.build.127
+[01:32:19 INFO]: Loading Emotecraft as a paper plugin...
+[01:32:19 INFO]: Loading server plugin Duels v5.0
+[01:32:19 INFO]: Loading server plugin DropHead v2.0.0
+[01:32:19 INFO]: Loading server plugin DriveBackupV2 v1.8.0
+[01:32:19 INFO]: Loading server plugin DoubleJump v2.9.1
+[01:32:19 INFO]: Loading server plugin DoubleDoors v1.4
+[01:32:19 INFO]: Loading server plugin CustomNPCs v1.7.7
+[01:32:19 INFO]: Loading server plugin CSMC v2.0.0
+[01:32:19 INFO]: Loading server plugin CrowdControl v4.1.0+paper
+[01:32:19 INFO]: Loading server plugin CrazyVouchers v5.1.3
+[01:32:19 INFO]: Loading server plugin CrazyEnvoys v1.14.2
+[01:32:19 INFO]: Loading server plugin CrazyEnchantments v2.6.1
+[01:32:19 INFO]: Loading server plugin ControlPlayer v2.6.1
+[01:32:19 INFO]: Loading server plugin ClickMobs v1.2.5
+[01:32:19 INFO]: Loading server plugin Chunker v1.21.8
+[01:32:19 INFO]: Loading server plugin ChessCraft v0.5.2
+[01:32:19 INFO]: Loading server plugin BreweryX v3.6.0;HEAD
+[01:32:19 INFO]: Loading server plugin Bookshelf v3.1.18.0
+[01:32:19 INFO]: Loading server plugin BMMarker v2.1.12
+[01:32:21 INFO]: Loading server plugin BlueMapFloodgate v3.5
+[01:32:21 INFO]: Loading server plugin BlueMapDeathMarkers v1.4
+[01:32:21 INFO]: Loading server plugin BlueMapChatMarkers v1.6
+[01:32:21 INFO]: Loading server plugin BigDoorsPhysics v2.4.4
+[01:32:21 INFO]: Loading server plugin BetterNations vBETA-2.8.4
+[01:32:21 INFO]: Loading server plugin BetterKeepInventory v2.1.1
+[01:32:21 INFO]: Loading server plugin BetterChairs v1.16.0
+[01:32:21 INFO]: Loading server plugin Bending v3.13.1
+[01:32:22 INFO]: Loading server plugin BeautyQuests v2.0.0
+[01:32:23 INFO]: Loading server plugin BattleRoyale v1.4.4
+[01:32:23 INFO]: Loading server plugin BankAccounts v1.11.1
+[01:32:23 INFO]: Loading server plugin BackpackPlus v2.0.1
+[01:32:23 INFO]: Loading server plugin AxCalendar v2.5.0
+[01:32:23 INFO]: Loading server plugin AutoTreeChop v1.7.0
+[01:32:23 INFO]: Loading server plugin AnnouncerPlus v1.4.5
+[01:32:23 INFO]: Loading server plugin ajLeaderboards v2.10.1
+[01:32:23 INFO]: Resolved gson @ https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar
+[01:32:23 INFO]: Downloading gson...
+[01:32:24 INFO]: Verifying checksum for gson
+[01:32:24 INFO]: Resolved checksum URL for gson as https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar.sha1
+[01:32:24 INFO]: Downloaded checksum for gson
+[01:32:24 INFO]: Checksum matched for gson
+[01:32:24 INFO]: Downloaded gson successfully!
+[01:32:24 INFO]: Resolved jar-relocator @ https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.4/jar-relocator-1.4.jar
+[01:32:24 INFO]: Downloading jar-relocator...
+[01:32:24 INFO]: Verifying checksum for jar-relocator
+[01:32:24 INFO]: Resolved checksum URL for jar-relocator as https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.4/jar-relocator-1.4.jar.sha1
+[01:32:25 INFO]: Downloaded checksum for jar-relocator
+[01:32:25 INFO]: Checksum matched for jar-relocator
+[01:32:25 INFO]: Downloaded jar-relocator successfully!
+[01:32:25 INFO]: Resolved asm @ https://repo1.maven.org/maven2/org/ow2/asm/asm/9.1/asm-9.1.jar
+[01:32:25 INFO]: Downloading asm...
+[01:32:26 INFO]: Verifying checksum for asm
+[01:32:26 INFO]: Resolved checksum URL for asm as https://repo1.maven.org/maven2/org/ow2/asm/asm/9.1/asm-9.1.jar.sha1
+[01:32:26 INFO]: Downloaded checksum for asm
+[01:32:26 INFO]: Checksum matched for asm
+[01:32:26 INFO]: Downloaded asm successfully!
+[01:32:26 INFO]: Resolved asm-commons @ https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar
+[01:32:26 INFO]: Downloading asm-commons...
+[01:32:26 INFO]: Verifying checksum for asm-commons
+[01:32:26 INFO]: Resolved checksum URL for asm-commons as https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar.sha1
+[01:32:26 INFO]: Downloaded checksum for asm-commons
+[01:32:26 INFO]: Checksum matched for asm-commons
+[01:32:26 INFO]: Downloaded asm-commons successfully!
+[01:32:26 INFO]: Verifying checksum for gson
+[01:32:26 INFO]: Checksum matched for gson
+[01:32:27 INFO]: Downloading HikariCP...
+[01:32:27 INFO]: Verifying checksum for HikariCP
+[01:32:27 INFO]: Resolved checksum URL for HikariCP as https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar.sha1
+[01:32:27 INFO]: Downloaded checksum for HikariCP
+[01:32:27 INFO]: Checksum matched for HikariCP
+[01:32:27 INFO]: Downloaded HikariCP successfully!
+[01:32:29 INFO]: Downloading slf4j-api...
+[01:32:29 INFO]: Verifying checksum for slf4j-api
+[01:32:29 INFO]: Resolved checksum URL for slf4j-api as https://repo.papermc.io/repository/maven-public/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar.sha1
+[01:32:30 INFO]: Downloaded checksum for slf4j-api
+[01:32:30 INFO]: Checksum matched for slf4j-api
+[01:32:30 INFO]: Downloaded slf4j-api successfully!
+[01:32:31 INFO]: Downloading h2...
+[01:32:32 INFO]: Verifying checksum for h2
+[01:32:32 INFO]: Resolved checksum URL for h2 as https://repo.maven.apache.org/maven2/com/h2database/h2/2.1.214/h2-2.1.214.jar.sha1
+[01:32:32 INFO]: Downloaded checksum for h2
+[01:32:32 INFO]: Checksum matched for h2
+[01:32:32 INFO]: Downloaded h2 successfully!
+[01:32:36 INFO]: Downloading okhttp...
+[01:32:36 INFO]: Verifying checksum for okhttp
+[01:32:36 INFO]: Resolved checksum URL for okhttp as https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.11.0/okhttp-4.11.0.jar.sha1
+[01:32:37 INFO]: Downloaded checksum for okhttp
+[01:32:37 INFO]: Checksum matched for okhttp
+[01:32:37 INFO]: Downloaded okhttp successfully!
+[01:32:38 INFO]: Downloading okio...
+[01:32:38 INFO]: Verifying checksum for okio
+[01:32:38 INFO]: Resolved checksum URL for okio as https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.2.0/okio-3.2.0.jar.sha1
+[01:32:38 INFO]: Downloaded checksum for okio
+[01:32:39 INFO]: Checksum matched for okio
+[01:32:39 INFO]: Downloaded okio successfully!
+[01:32:39 INFO]: Downloading okio-jvm...
+[01:32:39 INFO]: Verifying checksum for okio-jvm
+[01:32:39 INFO]: Resolved checksum URL for okio-jvm as https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.2.0/okio-jvm-3.2.0.jar.sha1
+[01:32:39 INFO]: Downloaded checksum for okio-jvm
+[01:32:39 INFO]: Checksum matched for okio-jvm
+[01:32:39 INFO]: Downloaded okio-jvm successfully!
+[01:32:40 INFO]: Downloading kotlin-stdlib-jdk8...
+[01:32:40 INFO]: Verifying checksum for kotlin-stdlib-jdk8
+[01:32:40 INFO]: Resolved checksum URL for kotlin-stdlib-jdk8 as https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.20/kotlin-stdlib-jdk8-1.6.20.jar.sha1
+[01:32:40 INFO]: Downloaded checksum for kotlin-stdlib-jdk8
+[01:32:41 INFO]: Checksum matched for kotlin-stdlib-jdk8
+[01:32:41 INFO]: Downloaded kotlin-stdlib-jdk8 successfully!
+[01:32:41 INFO]: Downloading kotlin-stdlib...
+[01:32:42 INFO]: Verifying checksum for kotlin-stdlib
+[01:32:42 INFO]: Resolved checksum URL for kotlin-stdlib as https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.6.20/kotlin-stdlib-1.6.20.jar.sha1
+[01:32:42 INFO]: Downloaded checksum for kotlin-stdlib
+[01:32:42 INFO]: Checksum matched for kotlin-stdlib
+[01:32:42 INFO]: Downloaded kotlin-stdlib successfully!
+[01:32:45 INFO]: Downloading kotlin-stdlib-common...
+[01:32:45 INFO]: Verifying checksum for kotlin-stdlib-common
+[01:32:45 INFO]: Resolved checksum URL for kotlin-stdlib-common as https://repo.papermc.io/repository/maven-public/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.20/kotlin-stdlib-common-1.6.20.jar.sha1
+[01:32:46 INFO]: Downloaded checksum for kotlin-stdlib-common
+[01:32:46 INFO]: Checksum matched for kotlin-stdlib-common
+[01:32:46 INFO]: Downloaded kotlin-stdlib-common successfully!
+[01:32:46 INFO]: Downloading annotations...
+[01:32:46 INFO]: Verifying checksum for annotations
+[01:32:46 INFO]: Resolved checksum URL for annotations as https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar.sha1
+[01:32:46 INFO]: Downloaded checksum for annotations
+[01:32:46 INFO]: Checksum matched for annotations
+[01:32:46 INFO]: Downloaded annotations successfully!
+[01:32:46 INFO]: Downloading kotlin-stdlib-jdk7...
+[01:32:47 INFO]: Verifying checksum for kotlin-stdlib-jdk7
+[01:32:47 INFO]: Resolved checksum URL for kotlin-stdlib-jdk7 as https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.20/kotlin-stdlib-jdk7-1.6.20.jar.sha1
+[01:32:47 INFO]: Downloaded checksum for kotlin-stdlib-jdk7
+[01:32:47 INFO]: Checksum matched for kotlin-stdlib-jdk7
+[01:32:47 INFO]: Downloaded kotlin-stdlib-jdk7 successfully!
+[01:32:47 INFO]: Loading server plugin AIChatModeration v1.25.10.16
+[01:32:47 INFO]: Enabling LuckPerms v5.5.17
+[01:32:55 INFO]:         __    
+[01:32:55 INFO]:   |    |__)   LuckPerms v5.5.17
+[01:32:55 INFO]:   |___ |      Running on Bukkit - Paper
+[01:32:55 INFO]: 
+[01:32:58 INFO]: Loading storage provider... [H2]
+[01:33:01 INFO]: Loading internal permission managers...
+[01:33:02 INFO]: Performing initial data load...
+[01:33:03 INFO]: Successfully enabled. (took 15948ms)
+[01:33:03 INFO]: Enabling FastAsyncWorldEdit v2.13.1
+[01:33:04 INFO]: LZ4 Compression Binding loaded successfully
+[01:33:04 INFO]: ZSTD Compression Binding loaded successfully
+[01:33:04 INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:33:04 INFO]: WEPIF: Updated config file
+[01:33:04 INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:33:05 INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_6.PaperweightFaweAdapter as the Bukkit adapter
+[01:33:08 INFO]: Enabling Vault v2.17.0
+[01:33:08 INFO]: Enabled Version 2.17.0
+[01:33:08 INFO]: Registered Vault permission & chat hook.
+[01:33:08 INFO]: WEPIF: Vault detected! Using Vault for permissions
+[01:33:08 INFO]: Enabling ProtocolLib v5.4.0
+[01:33:08 INFO]: Enabling BKCommonLib v1.21.10-v1
+[01:33:09 WARN]: A new release for FastAsyncWorldEdit is available: 2.14.0. You are currently on 2.13.1.
+Download from https://modrinth.com/plugin/fastasyncworldedit, https://hangar.papermc.io/IntellectualSites/FastAsyncWorldEdit or https://www.spigotmc.org/resources/13932
+[01:33:09 INFO]: BKCommonLib is running on Paper (1.21.8-60-29c8822 | mojmap) : (Unknown) (Minecraft 1.21.8)
+[01:33:09 INFO]: File 'plugins\BKCommonLib\Localization.yml' has been generated
+[01:33:09 WARN]: An update for FastAsyncWorldEdit is available. You are 1213 build(s) out of date.
+You are running build 0, the latest version is build 1213.
+Update at https://ci.athion.net/job/FastAsyncWorldEdit
+[01:33:09 INFO]: File 'plugins\BKCommonLib\config.yml' has been generated
+[01:33:10 INFO]: Now using the ProtocolLib library to provide Packet Listener and Monitor support
+[01:33:10 INFO]: [RegionChangeTracker] Region block changes will be notified from FastAsyncWorldEdit (>= v1.17)
+[01:33:12 INFO]: Includes records and ways to change them!
+[01:33:12 INFO]: BKCommonLib version 1.21.10-v1 (build: 1921) enabled! (4.012s)
+[01:33:12 INFO]: Enabling ViaRewind v4.0.11
+[01:33:12 INFO]: Enabling SkinsRestorer v15.8.2
+[01:33:18 INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[01:33:18 INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:33:20 INFO]: [SkinsRestorer] Using paper join listener!
+[01:33:20 INFO]: Successfully registered internal expansion: skinsrestorer [15.8.2]
+[01:33:20 INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[01:33:20 INFO]: Enabling BMMarker v2.1.12
+[01:33:20 INFO]: Preparing level "world"
+[01:33:20 INFO]: [SkinsRestorer] ----------------------------------------------
+[01:33:20 INFO]: [SkinsRestorer]     +==================+
+[01:33:20 INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:33:20 INFO]: [SkinsRestorer]     |------------------|
+[01:33:20 INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:33:20 INFO]: [SkinsRestorer]     +==================+
+[01:33:20 INFO]: [SkinsRestorer] ----------------------------------------------
+[01:33:20 INFO]: [SkinsRestorer]     Version: 15.8.2
+[01:33:20 INFO]: [SkinsRestorer]     Commit: cf773a3
+[01:33:20 INFO]: [SkinsRestorer]     This is the latest version!
+[01:33:20 INFO]: [SkinsRestorer] ----------------------------------------------
+[01:33:20 INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:33:20 INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:33:34 INFO]: Preparing start region for dimension minecraft:overworld
+[01:33:34 INFO]: Preparing spawn area: 2%
+[01:33:34 INFO]: Preparing spawn area: 2%
+[01:33:35 INFO]: Preparing spawn area: 2%
+[01:33:35 INFO]: Preparing spawn area: 2%
+[01:33:36 INFO]: Preparing spawn area: 2%
+[01:33:36 INFO]: Preparing spawn area: 6%
+[01:33:39 INFO]: Preparing spawn area: 6%
+[01:33:39 INFO]: Preparing spawn area: 6%
+[01:33:39 INFO]: Preparing spawn area: 6%
+[01:33:39 INFO]: Preparing spawn area: 6%
+[01:33:39 INFO]: Preparing spawn area: 59%
+[01:33:39 INFO]: Preparing spawn area: 59%
+[01:33:40 INFO]: Preparing spawn area: 59%
+[01:33:40 INFO]: Time elapsed: 6430 ms
+[01:33:41 INFO]: Preparing start region for dimension minecraft:the_nether
+[01:33:41 INFO]: Preparing spawn area: 2%
