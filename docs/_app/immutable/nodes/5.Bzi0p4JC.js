@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/26Sv5WEW.js";import{e as t,$ as r}from"../chunks/9Lpr1msW.js";import{h as a}from"../chunks/mqj03SKD.js";import{C as e}from"../chunks/BeahdxQ1.js";function s(o){a("1bv7ezn",m=>{t(()=>{r.title="Contact — Memory Card Digital"})}),e(o,{})}export{s as component};

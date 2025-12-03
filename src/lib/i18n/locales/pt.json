@@ -1,28 +1,52 @@
 {
     "navbar": {
         "button1": "Começar Grátis",
-        "button2": "Ver Demo"
+        "button2": "Ver Demo",
+        "home": "Início",
+        "about": "Sobre",
+        "download": "Download",
+        "signIn": "Entrar",
+        "subscribe": "Assinar",
+        "profile": "Perfil",
+        "logout": "Sair",
+        "getStarted": "Começar"
     },
-    "versioning": {
-        "title": "Versionamento",
-        "highlight": "Inteligente",
-        "subtitle": "Mantenha histórico completo de todas as suas saves. Volte para qualquer versão anterior quando quiser, nunca perca seu progresso.",
-        "button1": "Saiba Mais",
-        "button2": "Começar"
-    },
-    "cloud": {
-        "title": "Backup na",
-        "highlight": "Nuvem",
-        "subtitle": "Assine nosso software e tenha backup em nuvem em qualquer lugar. Seus jogos protegidos e acessíveis de qualquer dispositivo.",
-        "button1": "Ver Planos",
-        "button2": "Recursos"
-    },
-    "security": {
-        "title": "Segurança",
-        "highlight": "Garantida",
-        "subtitle": "Software assinado digitalmente e criptografia avançada. Seus saves protegidos com a mesma tecnologia usada por bancos.",
-        "button1": "Começar Agora",
-        "button2": "Contato"
+    "hero": {
+        "backup": {
+            "title": "Backup Fácil",
+            "highlight": "Grátis e Local",
+            "subtitle": "Nunca mais perca seus saves de jogos. Centralize tudo em um único lugar.",
+            "button1": "Começar",
+            "button2": "Saiba Mais"
+        },
+        "versioning": {
+            "title": "Versionamento",
+            "highlight": "Inteligente",
+            "subtitle": "Mantenha histórico completo de todas as suas saves. Volte para qualquer versão anterior quando quiser, nunca perca seu progresso.",
+            "button1": "Saiba Mais",
+            "button2": "Começar"
+        },
+        "cloud": {
+            "title": "Backup na",
+            "highlight": "Nuvem",
+            "subtitle": "Assine nosso software e tenha backup em nuvem em qualquer lugar. Seus jogos protegidos e acessíveis de qualquer dispositivo.",
+            "button1": "Ver Planos",
+            "button2": "Recursos"
+        },
+        "security": {
+            "title": "Segurança",
+            "highlight": "Garantida",
+            "subtitle": "Software assinado digitalmente e criptografia avançada. Seus saves protegidos com a mesma tecnologia usada por bancos.",
+            "button1": "Começar Agora",
+            "button2": "Contato"
+        },
+        "download": {
+            "title": "Baixe",
+            "highlight": "Agora",
+            "subtitle": "Comece a proteger seus saves hoje mesmo. Disponível para Windows.",
+            "button1": "Download",
+            "button2": "GitHub"
+        }
     },
     "api": "API",
     "company": "Empresa",
@@ -33,6 +57,17 @@
     "terms": "Termos",
     "copyright": "© 2024 Memory Card Digital. Todos os direitos reservados.",
     "subscriptionModal": {
+        "title": "Assine Agora",
+        "monthly": "Mensal",
+        "yearly": "Anual",
+        "subscribe": "Assinar",
+        "success": "Assinatura realizada com sucesso!",
+        "features": {
+            "cloudBackup": "Backup na Nuvem",
+            "support": "Suporte Prioritário",
+            "devices": "Dispositivos Ilimitados",
+            "versioning": "Histórico de Versões"
+        },
         "support": "🎮 Suporte para jogos não-Steam e emuladores"
     },
     "easyBackup": {
@@ -94,5 +129,8 @@
             "title": "Começar — Memory Card Digital",
             "description": "Comece a proteger seus saves de jogos em 3 passos simples. Baixe grátis hoje mesmo."
         }
+    },
+    "auth": {
+        "loginRequired": "Login necessário"
     }
 }

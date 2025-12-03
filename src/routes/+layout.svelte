@@ -3,9 +3,17 @@
 	import Navbar from "$lib/components/Navbar.svelte";
 	import Footer from "$lib/components/Footer.svelte";
 	import { afterNavigate } from "$app/navigation";
-	import { tick } from "svelte";
+	import { page } from "$app/stores";
+	import { tick, onMount } from "svelte";
 	import "$lib/i18n"; // Initialize i18n
-	import { isLoading } from "svelte-i18n";
+	import { waitLocale, isLoading } from "svelte-i18n";
+
+	let isLocaleLoaded = $state(false);
+
+	onMount(async () => {
+		await waitLocale();
+		isLocaleLoaded = true;
+	});
 
 	afterNavigate(async () => {
 		await tick();
@@ -31,12 +39,14 @@
 	});
 </script>
 
-{#if $isLoading}
+{#if $isLoading || !isLocaleLoaded}
 	<div class="loading-screen">Loading...</div>
 {:else}
 	<div class="app-wrapper">
 		<Navbar />
-		<slot />
+		{#key $page.url.pathname}
+			<slot />
+		{/key}
 		<Footer />
 	</div>
 {/if}

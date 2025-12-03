@@ -1,28 +1,52 @@
 {
     "navbar": {
         "button1": "Start Free",
-        "button2": "View Demo"
+        "button2": "View Demo",
+        "home": "Home",
+        "about": "About",
+        "download": "Download",
+        "signIn": "Sign In",
+        "subscribe": "Subscribe",
+        "profile": "Profile",
+        "logout": "Logout",
+        "getStarted": "Get Started"
     },
-    "versioning": {
-        "title": "Versioning",
-        "highlight": "Intelligent",
-        "subtitle": "Keep a complete history of all your saves. Revert to any previous version whenever you want, never lose your progress.",
-        "button1": "Learn More",
-        "button2": "Start"
-    },
-    "cloud": {
-        "title": "Backup in the",
-        "highlight": "Cloud",
-        "subtitle": "Subscribe to our software and get cloud backup anywhere. Your games protected and accessible from any device.",
-        "button1": "View Plans",
-        "button2": "Features"
-    },
-    "security": {
-        "title": "Security",
-        "highlight": "Guaranteed",
-        "subtitle": "Digitally signed software and advanced encryption. Your saves protected with the same technology used by banks.",
-        "button1": "Start Now",
-        "button2": "Contact"
+    "hero": {
+        "backup": {
+            "title": "Easy Backup",
+            "highlight": "Free & Local",
+            "subtitle": "Never lose your game saves again. Centralize everything in one place.",
+            "button1": "Start",
+            "button2": "Learn More"
+        },
+        "versioning": {
+            "title": "Versioning",
+            "highlight": "Intelligent",
+            "subtitle": "Keep a complete history of all your saves. Revert to any previous version whenever you want, never lose your progress.",
+            "button1": "Learn More",
+            "button2": "Start"
+        },
+        "cloud": {
+            "title": "Backup in the",
+            "highlight": "Cloud",
+            "subtitle": "Subscribe to our software and get cloud backup anywhere. Your games protected and accessible from any device.",
+            "button1": "View Plans",
+            "button2": "Features"
+        },
+        "security": {
+            "title": "Security",
+            "highlight": "Guaranteed",
+            "subtitle": "Digitally signed software and advanced encryption. Your saves protected with the same technology used by banks.",
+            "button1": "Start Now",
+            "button2": "Contact"
+        },
+        "download": {
+            "title": "Download",
+            "highlight": "Now",
+            "subtitle": "Start protecting your saves today. Available for Windows.",
+            "button1": "Download",
+            "button2": "GitHub"
+        }
     },
     "api": "API",
     "company": "Company",
@@ -33,6 +57,17 @@
     "terms": "Terms",
     "copyright": "© 2024 Memory Card Digital. All rights reserved.",
     "subscriptionModal": {
+        "title": "Subscribe Now",
+        "monthly": "Monthly",
+        "yearly": "Yearly",
+        "subscribe": "Subscribe",
+        "success": "Subscription successful!",
+        "features": {
+            "cloudBackup": "Cloud Backup",
+            "support": "Priority Support",
+            "devices": "Unlimited Devices",
+            "versioning": "Version History"
+        },
         "support": "🎮 Support for non-Steam games and emulators"
     },
     "easyBackup": {
@@ -94,5 +129,8 @@
             "title": "Get Started — Memory Card Digital",
             "description": "Start protecting your game saves in 3 simple steps. Download for free today."
         }
+    },
+    "auth": {
+        "loginRequired": "Login required"
     }
 }
