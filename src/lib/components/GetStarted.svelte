@@ -1,5 +1,6 @@
 <script>
 	import { t } from "svelte-i18n";
+	import { base } from "$app/paths";
 </script>
 
 <section class="get-started-section">
@@ -11,7 +12,7 @@
 				<div class="step-number">1</div>
 				<h3>{$t("getStarted.step1.title")}</h3>
 				<p>{$t("getStarted.step1.description")}</p>
-				<a href="/download" class="card-btn"
+				<a href="{base}/download" class="card-btn"
 					>{$t("getStarted.step1.button")}</a
 				>
 			</div>

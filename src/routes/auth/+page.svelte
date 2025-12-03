@@ -2,13 +2,14 @@
     import { page } from "$app/stores";
     import { goto } from "$app/navigation";
     import { login } from "$lib/stores/auth";
+    import { base } from "$app/paths";
 
-    let isLogin = true;
-    let email = "";
-    let password = "";
-    let name = "";
-    let error = "";
-    let loading = false;
+    let isLogin = $state(true);
+    let email = $state("");
+    let password = $state("");
+    let name = $state("");
+    let error = $state("");
+    let loading = $state(false);
 
     function toggleMode() {
         isLogin = !isLogin;
@@ -85,7 +86,12 @@
             </div>
         {/if}
 
-        <form on:submit|preventDefault={handleSubmit}>
+        <form
+            onsubmit={(e) => {
+                e.preventDefault();
+                handleSubmit();
+            }}
+        >
             {#if !isLogin}
                 <div class="form-group">
                     <label for="name">Full Name</label>
@@ -132,7 +138,7 @@
 
             {#if isLogin}
                 <div class="forgot-password">
-                    <a href="/forgot-password">Forgot Password?</a>
+                    <a href="{base}/forgot-password">Forgot Password?</a>
                 </div>
             {/if}
 
@@ -146,7 +152,7 @@
                 {isLogin
                     ? "Don't have an account?"
                     : "Already have an account?"}
-                <button class="link-btn" on:click={toggleMode}>
+                <button class="link-btn" onclick={toggleMode}>
                     {isLogin ? "Sign Up" : "Sign In"}
                 </button>
             </p>

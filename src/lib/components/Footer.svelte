@@ -1,5 +1,6 @@
 <script>
 	import { t } from "svelte-i18n";
+	import { base } from "$app/paths";
 	const currentYear = new Date().getFullYear();
 </script>
 
@@ -68,10 +69,16 @@
 					<h4>{$t("footer.product")}</h4>
 					<ul>
 						<li>
-							<a href="/about">{$t("footer.about")}</a>
+							<a href="{base}/about" data-sveltekit-preload-data
+								>{$t("footer.about")}</a
+							>
 						</li>
 						<li>
-							<a href="/features">{$t("footer.features")}</a>
+							<a
+								href="{base}/features"
+								data-sveltekit-preload-data
+								>{$t("footer.features")}</a
+							>
 						</li>
 						<li>
 							<a
@@ -112,13 +119,19 @@
 					<h4>{$t("footer.legal")}</h4>
 					<ul>
 						<li>
-							<a href="/privacy">{$t("footer.privacy")}</a>
+							<a href="{base}/privacy" data-sveltekit-preload-data
+								>{$t("footer.privacy")}</a
+							>
 						</li>
 						<li>
-							<a href="/terms">{$t("footer.terms")}</a>
+							<a href="{base}/terms" data-sveltekit-preload-data
+								>{$t("footer.terms")}</a
+							>
 						</li>
 						<li>
-							<a href="/license">License</a>
+							<a href="{base}/license" data-sveltekit-preload-data
+								>License</a
+							>
 						</li>
 					</ul>
 				</div>

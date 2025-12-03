@@ -1,5 +1,5 @@
 <script>
-	import { onMount } from "svelte";
+	import { onMount, tick } from "svelte";
 	import { t } from "svelte-i18n";
 
 	/**
@@ -7,7 +7,7 @@
 	 */
 	let canvasRefs = [];
 	/**
-	 * @type {string | object | undefined}
+	 * @type {HTMLElement}
 	 */
 	let scrollContainer;
 
@@ -122,10 +122,16 @@
 	onMount(() => {
 		/** @type {gsap.Context | null} */
 		let ctx = null;
+		/** @type {typeof import("gsap/ScrollTrigger").ScrollTrigger | null} */
+		let ScrollTriggerInstance = null;
 
 		const init = async () => {
+			await tick();
+			if (!scrollContainer) return;
+
 			const { default: gsap } = await import("gsap");
 			const { ScrollTrigger } = await import("gsap/ScrollTrigger");
+			ScrollTriggerInstance = ScrollTrigger;
 
 			gsap.registerPlugin(ScrollTrigger);
 
@@ -157,22 +163,26 @@
 
 				// Pin the entire hero section
 				ScrollTrigger.create({
-					trigger: ".scroll-container",
+					trigger: scrollContainer,
 					start: "top top",
 					end: "+=400%",
 					pin: ".hero",
 					pinSpacing: false,
 					scrub: true,
+					anticipatePin: 1,
+					fastScrollEnd: true,
 				});
 
 				// Master timeline for scroll movements
 				const masterTimeline = gsap.timeline({
 					defaults: { overwrite: "auto" }, // Prevent conflicts
 					scrollTrigger: {
-						trigger: ".scroll-container",
+						trigger: scrollContainer,
 						start: "top top",
 						end: "+=400%",
-						scrub: 1,
+						scrub: 1.5,
+						invalidateOnRefresh: true,
+						fastScrollEnd: true,
 					},
 				});
 
@@ -440,30 +450,54 @@
 
 				// Entrance Animation
 				// Animate wrappers from center with scale
-				gsap.from(".card-wrapper", {
-					scale: 0,
-					opacity: 0,
-					duration: 1.2,
-					stagger: 0.1,
-					ease: "elastic.out(1, 0.7)",
-					delay: 0.2,
-				});
+				gsap.fromTo(
+					".card-wrapper",
+					{
+						scale: 0,
+						opacity: 0,
+					},
+					{
+						scale: 1,
+						opacity: 1,
+						duration: 1.2,
+						stagger: 0.1,
+						ease: "elastic.out(1, 0.7)",
+						delay: 0.2,
+					},
+				);
 
 				// Animate content in
-				gsap.from(".section-0", {
-					y: 30,
-					autoAlpha: 0,
-					duration: 1,
-					delay: 0.8,
-					ease: "power3.out",
-				});
+				gsap.fromTo(
+					".section-0",
+					{
+						y: 30,
+						autoAlpha: 0,
+					},
+					{
+						y: 0,
+						autoAlpha: 1,
+						duration: 1,
+						delay: 0.8,
+						ease: "power3.out",
+					},
+				);
 			}, scrollContainer);
+
+			// Small delay to allow for any final layout shifts/scroll restoration
+			setTimeout(() => {
+				ScrollTrigger.refresh();
+			}, 100);
 		};
 
 		init();
 
 		return () => {
 			if (ctx) ctx.revert();
+			if (ScrollTriggerInstance) {
+				ScrollTriggerInstance.getAll().forEach((trigger) => {
+					trigger.kill();
+				});
+			}
 		};
 	});
 </script>
@@ -629,13 +663,14 @@
 		width: 100%;
 		max-width: 600px;
 		text-align: center;
+		z-index: 10;
 		/* opacity and visibility handled by inline styles and GSAP */
 	}
 
 	.hero-title {
 		font-size: 3.5rem;
 		margin-bottom: 1.5rem;
-		line-height: 1.1;
+		line-height: 1.2;
 		text-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 	}
 
@@ -645,6 +680,7 @@
 		background-clip: text;
 		-webkit-text-fill-color: transparent;
 		display: block;
+		padding-bottom: 0.15em;
 	}
 
 	.hero-subtitle {

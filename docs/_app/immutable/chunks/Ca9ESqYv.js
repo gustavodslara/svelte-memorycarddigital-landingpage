@@ -1,0 +1,1 @@
+import{b as o,h as f,j as c,a6 as b,r as d,m as T,n as m,f as p,s as _}from"./D59Xova2.js";import{B as y}from"./C9-cIV3B.js";function v(t,i,h=!1){f&&c();var e=new y(t),u=h?b:0;function n(a,r){if(f){const l=d(t)===T;if(a===l){var s=m();p(s),e.anchor=s,_(!1),e.ensure(a,r),_(!0);return}}e.ensure(a,r)}o(()=>{var a=!1;i((r,s=!0)=>{a=!0,n(s,r)}),a||n(!1,null)},u)}export{v as i};

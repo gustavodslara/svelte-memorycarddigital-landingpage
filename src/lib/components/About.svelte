@@ -1,35 +1,46 @@
 <script>
-	import { onMount } from "svelte";
+	import { onMount, tick } from "svelte";
 	import { t } from "svelte-i18n";
+	import { base } from "$app/paths";
 
-	let benefits = $derived([
-		$t("about.benefits.backup"),
-		$t("about.benefits.sync"),
-		$t("about.benefits.cloud"),
-		$t("about.benefits.support"),
-	]);
+	function getBenefits(t) {
+		return [
+			t("about.benefits.backup"),
+			t("about.benefits.sync"),
+			t("about.benefits.cloud"),
+			t("about.benefits.support"),
+		];
+	}
 
-	let sections = $derived([
-		{
-			title: $t("about.easyBackup.title"),
-			highlight: $t("about.easyBackup.highlight"),
-			subtitle: $t("about.easyBackup.subtitle"),
-			description: $t("about.easyBackup.description"),
-		},
-		{
-			title: $t("about.howItWorks.title"),
-			highlight: $t("about.howItWorks.highlight"),
-			subtitle: $t("about.howItWorks.subtitle"),
-			description: $t("about.howItWorks.description"),
-			steps: [
-				$t("about.steps.step1"),
-				$t("about.steps.step2"),
-				$t("about.steps.step3"),
-				$t("about.steps.step4"),
-				$t("about.steps.step5"),
-			],
-		},
-	]);
+	let benefits = [];
+	$: benefits = getBenefits($t);
+
+	function getSections(t) {
+		return [
+			{
+				title: t("about.easyBackup.title"),
+				highlight: t("about.easyBackup.highlight"),
+				subtitle: t("about.easyBackup.subtitle"),
+				description: t("about.easyBackup.description"),
+			},
+			{
+				title: t("about.howItWorks.title"),
+				highlight: t("about.howItWorks.highlight"),
+				subtitle: t("about.howItWorks.subtitle"),
+				description: t("about.howItWorks.description"),
+				steps: [
+					t("about.steps.step1"),
+					t("about.steps.step2"),
+					t("about.steps.step3"),
+					t("about.steps.step4"),
+					t("about.steps.step5"),
+				],
+			},
+		];
+	}
+
+	let sections = [];
+	$: sections = getSections($t);
 
 	// PS2 Memory Card colors (subset for About section)
 	const memoryCardColors = [
@@ -103,12 +114,22 @@
 		}
 	}
 
+	/** @type {HTMLElement} */
+	let scrollContainer;
+
 	onMount(() => {
 		/** @type {gsap.Context | null} */
 		let ctx = null;
+		/** @type {typeof import("gsap/ScrollTrigger").ScrollTrigger | null} */
+		let ScrollTriggerInstance = null;
+
 		(async () => {
+			await tick();
+			if (!scrollContainer) return;
+
 			const { default: gsap } = await import("gsap");
 			const { ScrollTrigger } = await import("gsap/ScrollTrigger");
+			ScrollTriggerInstance = ScrollTrigger;
 
 			gsap.registerPlugin(ScrollTrigger);
 
@@ -122,7 +143,7 @@
 			ctx = gsap.context(() => {
 				// Pin the about section with improved configuration
 				ScrollTrigger.create({
-					trigger: ".scroll-container",
+					trigger: scrollContainer,
 					start: "top top",
 					end: "+=200%",
 					pin: ".about",
@@ -168,7 +189,7 @@
 				// Create master timeline for scroll-based animations
 				const masterTimeline = gsap.timeline({
 					scrollTrigger: {
-						trigger: ".scroll-container",
+						trigger: scrollContainer,
 						start: "top top",
 						end: "+=200%",
 						scrub: 1,
@@ -246,19 +267,30 @@
 					);
 
 				// Initial entrance
-				gsap.from(".section-0", {
-					opacity: 0,
-					y: 50,
-					duration: 1,
-					delay: 0.3,
-					ease: "power4.out",
-				});
+				gsap.fromTo(
+					".section-0",
+					{
+						opacity: 0,
+						y: 50,
+					},
+					{
+						opacity: 1,
+						y: 0,
+						duration: 1,
+						delay: 0.3,
+						ease: "power4.out",
+					},
+				);
 
-				gsap.from(
+				gsap.fromTo(
 					".floating-wrapper-1, .floating-wrapper-2, .floating-wrapper-3",
 					{
 						scale: 0,
 						opacity: 0,
+					},
+					{
+						scale: 1,
+						opacity: 1,
 						duration: 1,
 						delay: 0.5,
 						stagger: 0.2,
@@ -266,15 +298,27 @@
 					},
 				);
 
-				gsap.from(".benefit-item", {
-					x: -50,
-					opacity: 0,
-					duration: 0.6,
-					delay: 1,
-					stagger: 0.15,
-					ease: "power3.out",
-				});
-			});
+				gsap.fromTo(
+					".benefit-item",
+					{
+						x: -50,
+						opacity: 0,
+					},
+					{
+						x: 0,
+						opacity: 1,
+						duration: 0.6,
+						delay: 1,
+						stagger: 0.15,
+						ease: "power3.out",
+					},
+				);
+			}, scrollContainer);
+
+			// Small delay to allow for any final layout shifts/scroll restoration
+			setTimeout(() => {
+				ScrollTrigger.refresh();
+			}, 100);
 		})();
 
 		return () => {
@@ -282,17 +326,17 @@
 			if (ctx) {
 				ctx.revert();
 			}
-			// Kill all ScrollTriggers associated with this component
-			ScrollTrigger.getAll().forEach((trigger) => {
-				if (trigger.vars.trigger === ".scroll-container") {
+			// Kill all ScrollTriggers if available
+			if (ScrollTriggerInstance) {
+				ScrollTriggerInstance.getAll().forEach((trigger) => {
 					trigger.kill();
-				}
-			});
+				});
+			}
 		};
 	});
 </script>
 
-<div class="scroll-container">
+<div class="scroll-container" bind:this={scrollContainer}>
 	<section id="about" class="about">
 		<div class="about-background"></div>
 
@@ -335,7 +379,10 @@
 								<li class="benefit-item">{benefit}</li>
 							{/each}
 						</ul>
-						<a href="/download" class="learn-more-button"
+						<a
+							href="{base}/download"
+							class="learn-more-button"
+							data-sveltekit-preload-data
 							>{$t("about.downloadNow")}</a
 						>
 					{/if}
@@ -345,7 +392,10 @@
 								<li class="step-item">{step}</li>
 							{/each}
 						</ol>
-						<a href="/download" class="learn-more-button"
+						<a
+							href="{base}/download"
+							class="learn-more-button"
+							data-sveltekit-preload-data
 							>{$t("about.downloadNow")}</a
 						>
 					{/if}

@@ -144,6 +144,7 @@
 	}
 
 	import { t } from "svelte-i18n";
+	import { base } from "$app/paths";
 </script>
 
 <SubscriptionModal isOpen={showModal} on:close={() => (showModal = false)} />
@@ -155,7 +156,7 @@
 	class:gradient-page={isGradientPage && !scrolled}
 >
 	<div class="container">
-		<a href="/" data-sveltekit-preload-data class="logo">
+		<a href="{base}/" data-sveltekit-preload-data class="logo">
 			<div class="logo-memory-card">
 				<canvas bind:this={logoCanvas} width="40" height="55"></canvas>
 			</div>
@@ -164,15 +165,17 @@
 
 		<ul class="nav-links">
 			<li>
-				<a href="/" data-sveltekit-preload-data>{$t("navbar.home")}</a>
+				<a href="{base}/" data-sveltekit-preload-data
+					>{$t("navbar.home")}</a
+				>
 			</li>
 			<li>
-				<a href="/about" data-sveltekit-preload-data
+				<a href="{base}/about" data-sveltekit-preload-data
 					>{$t("navbar.about")}</a
 				>
 			</li>
 			<li>
-				<a href="/download" data-sveltekit-preload-data
+				<a href="{base}/download" data-sveltekit-preload-data
 					>{$t("navbar.download")}</a
 				>
 			</li>
@@ -187,7 +190,7 @@
 					{$t("navbar.subscribe")}
 				</button>
 				<a
-					href="/profile"
+					href="{base}/profile"
 					class="profile-link"
 					data-sveltekit-preload-data
 				>
@@ -203,7 +206,7 @@
 				</button>
 			{:else}
 				<a
-					href="/auth"
+					href="{base}/auth"
 					class="subscribe-btn-nav"
 					data-sveltekit-preload-data
 				>
@@ -211,7 +214,7 @@
 				</a>
 			{/if}
 			<a
-				href="/get-started"
+				href="{base}/get-started"
 				data-sveltekit-preload-data
 				class="cta-button">{$t("navbar.getStarted")}</a
 			>
@@ -235,11 +238,24 @@
 
 	<div class="mobile-menu" class:open={isMenuOpen}>
 		<div class="mobile-nav-links">
-			<a href="/" onclick={closeMenu}>{$t("navbar.home")}</a>
-			<a href="/about" onclick={closeMenu}>{$t("navbar.about")}</a>
-			<a href="/download" onclick={closeMenu}>{$t("navbar.download")}</a>
+			<a href="{base}/" data-sveltekit-preload-data onclick={closeMenu}
+				>{$t("navbar.home")}</a
+			>
+			<a
+				href="{base}/about"
+				data-sveltekit-preload-data
+				onclick={closeMenu}>{$t("navbar.about")}</a
+			>
+			<a
+				href="{base}/download"
+				data-sveltekit-preload-data
+				onclick={closeMenu}>{$t("navbar.download")}</a
+			>
 			{#if isAuthenticated}
-				<a href="/profile" onclick={closeMenu}>{$t("navbar.profile")}</a
+				<a
+					href="{base}/profile"
+					data-sveltekit-preload-data
+					onclick={closeMenu}>{$t("navbar.profile")}</a
 				>
 				<button
 					class="subscribe-btn-mobile"
@@ -262,15 +278,19 @@
 				</button>
 			{:else}
 				<a
-					href="/auth"
+					href="{base}/auth"
 					class="subscribe-btn-mobile"
+					data-sveltekit-preload-data
 					onclick={closeMenu}
 				>
 					{$t("navbar.signIn")}
 				</a>
 			{/if}
-			<a href="/get-started" class="cta-button-mobile" onclick={closeMenu}
-				>{$t("navbar.getStarted")}</a
+			<a
+				href="{base}/get-started"
+				class="cta-button-mobile"
+				data-sveltekit-preload-data
+				onclick={closeMenu}>{$t("navbar.getStarted")}</a
 			>
 			<a
 				href="https://github.com/gustavodslara/qt-memorycarddigital-app"

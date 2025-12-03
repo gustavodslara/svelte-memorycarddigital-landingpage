@@ -8,6 +8,7 @@
 	import "$lib/i18n"; // Initialize i18n
 	import { waitLocale, isLoading } from "svelte-i18n";
 
+	let { children } = $props();
 	let isLocaleLoaded = $state(false);
 
 	onMount(async () => {
@@ -45,7 +46,7 @@
 	<div class="app-wrapper">
 		<Navbar />
 		{#key $page.url.pathname}
-			<slot />
+			{@render children()}
 		{/key}
 		<Footer />
 	</div>
