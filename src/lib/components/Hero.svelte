@@ -173,6 +173,9 @@
 					fastScrollEnd: true,
 				});
 
+				// Entrance animation reference
+				let entranceTween = null;
+
 				// Master timeline for scroll movements
 				const masterTimeline = gsap.timeline({
 					defaults: { overwrite: "auto" }, // Prevent conflicts
@@ -180,9 +183,17 @@
 						trigger: scrollContainer,
 						start: "top top",
 						end: "+=400%",
-						scrub: 1.5,
+						scrub: 0.5, // Reduced from 1.5 for more responsiveness
 						invalidateOnRefresh: true,
 						fastScrollEnd: true,
+						onUpdate: (self) => {
+							// If user scrolls, kill the entrance animation immediately
+							// so it doesn't override the scroll timeline
+							if (self.progress > 0 && entranceTween) {
+								entranceTween.kill();
+								entranceTween = null;
+							}
+						},
 					},
 				});
 
@@ -467,7 +478,7 @@
 				);
 
 				// Animate content in
-				gsap.fromTo(
+				entranceTween = gsap.fromTo(
 					".section-0",
 					{
 						y: 30,
@@ -479,6 +490,9 @@
 						duration: 1,
 						delay: 0.8,
 						ease: "power3.out",
+						onComplete: () => {
+							entranceTween = null;
+						},
 					},
 				);
 			}, scrollContainer);
