@@ -155,7 +155,12 @@
 	class:gradient-page={isGradientPage && !scrolled}
 >
 	<div class="container">
-		<a href="/" data-sveltekit-preload-data class="logo">
+		<a
+			href="/"
+			data-sveltekit-preload-data
+			data-sveltekit-reload
+			class="logo"
+		>
 			<div class="logo-memory-card">
 				<canvas bind:this={logoCanvas} width="40" height="55"></canvas>
 			</div>
@@ -164,16 +169,22 @@
 
 		<ul class="nav-links">
 			<li>
-				<a href="/" data-sveltekit-preload-data>{$t("navbar.home")}</a>
-			</li>
-			<li>
-				<a href="/about" data-sveltekit-preload-data
-					>{$t("navbar.about")}</a
+				<a href="/" data-sveltekit-preload-data data-sveltekit-reload
+					>{$t("navbar.home")}</a
 				>
 			</li>
 			<li>
-				<a href="/download" data-sveltekit-preload-data
-					>{$t("navbar.download")}</a
+				<a
+					href="/about"
+					data-sveltekit-preload-data
+					data-sveltekit-reload>{$t("navbar.about")}</a
+				>
+			</li>
+			<li>
+				<a
+					href="/download"
+					data-sveltekit-preload-data
+					data-sveltekit-reload>{$t("navbar.download")}</a
 				>
 			</li>
 		</ul>
@@ -190,11 +201,16 @@
 					href="/profile"
 					class="profile-link"
 					data-sveltekit-preload-data
+					data-sveltekit-reload
 				>
 					<i class="fa-solid fa-user-circle"></i>
 					<span>{$t("navbar.profile")}</span>
 				</a>
-				<button class="logout-btn" onclick={handleLogout} aria-label="Logout">
+				<button
+					class="logout-btn"
+					onclick={handleLogout}
+					aria-label="Logout"
+				>
 					<i class="fa-solid fa-sign-out-alt"></i>
 				</button>
 			{:else}
@@ -202,6 +218,7 @@
 					href="/auth"
 					class="subscribe-btn-nav"
 					data-sveltekit-preload-data
+					data-sveltekit-reload
 				>
 					{$t("navbar.signIn")}
 				</a>
@@ -209,6 +226,7 @@
 			<a
 				href="/get-started"
 				data-sveltekit-preload-data
+				data-sveltekit-reload
 				class="cta-button">{$t("navbar.getStarted")}</a
 			>
 			<a
@@ -231,11 +249,18 @@
 
 	<div class="mobile-menu" class:open={isMenuOpen}>
 		<div class="mobile-nav-links">
-			<a href="/" onclick={closeMenu}>{$t("navbar.home")}</a>
-			<a href="/about" onclick={closeMenu}>{$t("navbar.about")}</a>
-			<a href="/download" onclick={closeMenu}>{$t("navbar.download")}</a>
+			<a href="/" onclick={closeMenu} data-sveltekit-reload
+				>{$t("navbar.home")}</a
+			>
+			<a href="/about" onclick={closeMenu} data-sveltekit-reload
+				>{$t("navbar.about")}</a
+			>
+			<a href="/download" onclick={closeMenu} data-sveltekit-reload
+				>{$t("navbar.download")}</a
+			>
 			{#if isAuthenticated}
-				<a href="/profile" onclick={closeMenu}>{$t("navbar.profile")}</a
+				<a href="/profile" onclick={closeMenu} data-sveltekit-reload
+					>{$t("navbar.profile")}</a
 				>
 				<button
 					class="subscribe-btn-mobile"
@@ -261,12 +286,16 @@
 					href="/auth"
 					class="subscribe-btn-mobile"
 					onclick={closeMenu}
+					data-sveltekit-reload
 				>
 					{$t("navbar.signIn")}
 				</a>
 			{/if}
-			<a href="/get-started" class="cta-button-mobile" onclick={closeMenu}
-				>{$t("navbar.getStarted")}</a
+			<a
+				href="/get-started"
+				class="cta-button-mobile"
+				onclick={closeMenu}
+				data-sveltekit-reload>{$t("navbar.getStarted")}</a
 			>
 			<a
 				href="https://github.com/gustavodslara/qt-memorycarddigital-app"
@@ -475,8 +504,6 @@
 		.nav-links {
 			display: none;
 		}
-
-
 
 		.github-button {
 			padding: 0.75rem 1rem;

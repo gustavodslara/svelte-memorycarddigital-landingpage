@@ -131,7 +131,9 @@
 
             {#if isLogin}
                 <div class="forgot-password">
-                    <a href="/forgot-password">Forgot Password?</a>
+                    <a href="/forgot-password" data-sveltekit-reload
+                        >Forgot Password?</a
+                    >
                 </div>
             {/if}
 
